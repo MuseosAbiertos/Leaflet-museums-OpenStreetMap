@@ -1,0 +1,3907 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-06-03T13:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/3228119",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "294",
+        "addr:postcode": "C1067AAF",
+        "addr:street": "Perú",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "Desde su creación en 1971, el organismo ha promovido la realización de actividades tales como visitas guiadas, conferencias y congresos, presentaciones de libros, etc. Además, tienen su sede el consejo internacional de museos, la biblioteca «arquitecto F",
+        "height": "25",
+        "heritage": "2",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Manzana de las Luces",
+        "official_name": "Complejo Histórico Cultural Manzana de las Luces",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 14:00-20:00",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4342-9930",
+        "start_date": "1971",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://manzanadelasluces.cultura.gob.ar/",
+        "wikidata": "Q263127",
+        "wikimedia_commons": "File:Manzana de las Luces vista desde arriba.jpg",
+        "wikipedia": "es:Manzana de las Luces",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.374544,
+          -34.6105162
+        ]
+      },
+      "id": "relation/3228119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6402696",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2291",
+        "addr:postcode": "C1428DNK",
+        "addr:street": "Avenida Juramento",
+        "description": "Posee esculturas en madera policromada, retablos, pinturas de los siglos XVI y XVII junto a mobiliario, armas y artes decorativas datadas entre los siglos XIV y XX. La casa está rodeada por un magnífico jardín andaluz.",
+        "email": "museolarreta@buenosaires.gob.ar",
+        "museum_type": "national",
+        "name": "Museo de Arte Español 'Enrique Larreta'",
+        "opening_hours": "Mo-Fr 13:00-19:00; Sa-Su 10:00-20:00",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4784-4040",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "http://www.buenosaires.gob.ar/museolarreta",
+        "wikidata": "Q6940536",
+        "wikipedia": "es:Museo de Arte Español Enrique Larreta",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555423,
+          -34.5607704
+        ]
+      },
+      "id": "relation/6402696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9272843",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "216",
+        "addr:postcode": "C1004AAF",
+        "addr:street": "San Martín",
+        "building": "yes",
+        "description": "Numismática. Piezas de moneda metalica y de papel moneda que circularon en el territorio argentino desde el siglo XVI hasta el presente. Elementos de fabricación de monedas y billetes: bocetos de proyectos, platos de yeso, ensayos, matrices y cuños, plan",
+        "email": "museo@bcra.gov.ar",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico y Numismático del Banco Central",
+        "official_name": "Museo Histórico y Numismático del Banco Central de la República Argentina \"Dr. José Evaristo Uriburu\"",
+        "opening_hours": "Mo-Fr 10:00-13:00",
+        "phone": "+54 1143483882",
+        "start_date": "1910",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3739467,
+          -34.6053509
+        ]
+      },
+      "id": "relation/9272843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23621021",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "3415",
+        "addr:postcode": "C1425CLA",
+        "addr:street": "Avenida Presidente Figueroa Alcorta",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "El acervo fundacional del Malba cuenta con más de 300 obras, entre ellas piezas paradigmáticas de Frida kahlo, wilfredo Lam, Roberto Matta, Diego Rivera, Antonio Berni, entre otros, así como también obras de arte contemporáneo.",
+        "fee": "yes",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Museo de Arte Latinoamericano de Buenos Aires",
+        "official_name": "Museo de Arte Latinoamericano de Buenos Aires",
+        "opening_hours": "We, Fr-Mo 12:00-20:00; Tu 12:00-21:00",
+        "operator:type": "private",
+        "phone": "+54 11 4808 6500",
+        "short_name": "MALBA",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://malba.org.ar/",
+        "wheelchair": "yes",
+        "wikidata": "Q1808336",
+        "wikimedia_commons": "File:Malba - Milla Museos.jpg",
+        "wikipedia": "es:Museo de Arte Latinoamericano de Buenos Aires",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4034397,
+          -34.576923
+        ]
+      },
+      "id": "way/23621021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28630480",
+        "addr:city": "Ciudad autónoma de Buenos Aires",
+        "addr:housenumber": "555",
+        "addr:postcode": "C1425ABX",
+        "addr:street": "Avenida Infanta Isabel",
+        "building": "yes",
+        "description": "Pinturas, esculturas, dibujos, grabados y tapices de artistas argentinos consagrados, o realizados en el pais desde el siglo pasado hasta el presente. Salon Manuel Belgrano.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/MAPESBUE006.JPG",
+        "museum_type": "municipal",
+        "name": "Museo de artes plásticas 'Eduardo Sívori'",
+        "operator": "Dirección General de Museos, Ministerio de Cultura, Gobierno de la Ciudad de Buenos Aires",
+        "phone": "+54 11 4778-3899",
+        "source": "http://www.museosivori.org.ar/",
+        "start_date": "1934",
+        "tourism": "museum",
+        "website": "http://www.buenosaires.gob.ar/museosivori",
+        "wikidata": "Q5340780",
+        "wikimedia_commons": "File:MAPESBUE006.JPG",
+        "wikipedia": "es:Museo de Artes Plásticas Eduardo Sívori",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4178726,
+          -34.568916
+        ]
+      },
+      "id": "way/28630480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53638821",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "141",
+        "addr:postcode": "C1107CCC",
+        "addr:street": "Olga Cossetini",
+        "alt_name": "Museo Fortabat",
+        "architect": "Rafael Viñoly Beceiro",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "La colección presenta obras de arte argentino desde el siglo XIX hasta la actualidad, y un sector destacado con obras de artistas internacionales del siglo XVI hasta el XX seleccionadas por la fundadora. Objetos de la antigüedad egipcia y griega",
+        "email": "info@coleccionfortabat.org.ar",
+        "museum": "art",
+        "museum_type": "private",
+        "name": "Colección de Arte 'Amalia Lacroze de Fortabat'",
+        "opening_hours": "Tu-Su 12:00-20:00",
+        "phone": "+54 11 4310-6600",
+        "roof:material": "glass",
+        "roof:shape": "round",
+        "start_date": "2008",
+        "tourism": "museum",
+        "website": "http://www.coleccionfortabat.org.ar/",
+        "wikidata": "Q1108956",
+        "wikipedia": "en:Fortabat Art Collection",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.364992,
+          -34.5995425
+        ]
+      },
+      "id": "way/53638821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54041468",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1473",
+        "addr:postcode": "C1425AAA",
+        "addr:street": "Avenida del Libertador",
+        "building": "yes",
+        "building:levels": "2",
+        "charge": "$AR0/residents); $AR200/non-residents);",
+        "construction_date": "1896-12-25",
+        "description": "Obras de arte universal, desde la edad media hasta la época contemporánea: El Greco, Tiepolo, Goya, Manet, Renoir, Gaugin, etc. Arte argtentino desde el siglo XIX hasta el presente. P. Pueyrredón, Pellegrini, Palliere, Morel, Cándido López, Della Valle,",
+        "email": "info@mnba.gob.ar",
+        "fee": "We-Fr 11:00-18:45; Sa-Su 10:00-18:45",
+        "internet_access": "yes",
+        "level": "0",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Museo Nacional de Bellas Artes",
+        "name:uk": "Національний музей образотворчого мистецтва",
+        "opening_hours": "Tu-Fr 11:00-20:00; Sa-Su 10:00-20:00",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 5288-9900",
+        "start_date": "1896-12-25",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://www.bellasartes.gob.ar/",
+        "wheelchair": "yes",
+        "wikidata": "Q1848918",
+        "wikimedia_commons": "File:MNBA fachada.jpg",
+        "wikipedia": "es:Museo Nacional de Bellas Artes (Argentina)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3928845,
+          -34.5839253
+        ]
+      },
+      "id": "way/54041468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/120102412",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "7549",
+        "addr:postcode": "C1424BCL",
+        "addr:street": "Avenida Presidente Figueroa Alcorta",
+        "building": "yes",
+        "email": "museo@cariverplate.com.ar",
+        "facebook": "https://www.facebook.com/MuseoRiverPlate/",
+        "instagram": "https://www.instagram.com/museoriver/",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo River Plate",
+        "name:he": "המוזיאון של ריבר",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "operator": "CARP",
+        "phone": "+54 11 4789-1156",
+        "start_date": "2009-11-09",
+        "tourism": "museum",
+        "twitter": "https://twitter.com/museoriver/",
+        "website": "http://www.cariverplate.com.ar/museo-river/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484714,
+          -34.5463533
+        ]
+      },
+      "id": "way/120102412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122969767",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1652",
+        "addr:postcode": "C1143AAH",
+        "addr:street": "Defensa",
+        "building": "yes",
+        "description": "Documentan el período de la dominación española y la historia Argentina, hasta 1943: cuadros, armas, mobiliario, numismática, medallística, planos, mapas, banderas, indumentaria civil y militar, documentos, objetos de uso personal",
+        "email": "informes@mhn.gob.ar",
+        "facebook": "https://www.facebook.com/museohistoriconacionalargentina/",
+        "instagram": "https://www.instagram.com/mhnarg/",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico Nacional",
+        "name:en": "National Historical Museum",
+        "name:uk": "Національний історичний музей",
+        "name:zh": "智利国家历史博物馆",
+        "old_name": "Museo Histórico de la Capital",
+        "opening_hours": "Th-Mo 11:00-18:00",
+        "operator": "DNM",
+        "phone": "+54 11 4307-7540",
+        "source": "Wikipedia",
+        "start_date": "1891-02-15",
+        "tourism": "museum",
+        "twitter": "https://www.twitter.com/museohistorico/",
+        "website": "https://museohistoriconacional.cultura.gob.ar/",
+        "wikidata": "Q57785",
+        "wikipedia": "es:Museo Histórico Nacional (Argentina)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3705975,
+          -34.6269468
+        ]
+      },
+      "id": "way/122969767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123963300",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "851",
+        "addr:postcode": "C1107BLF",
+        "addr:street": "Avenida de los Italianos",
+        "alt_name": "Museo de la Ciudad",
+        "architect": "Andrés Kalnay",
+        "building": "yes",
+        "description": "El museo fue creado para preservar el patrimonio del humor gráfico y reunir las obras de los grandes maestros del dibujo, la ilustración y la caricatura, que podrán contar con un lugar donde exponer sus obras, así como también las nuevas generaciones, co",
+        "fee": "yes",
+        "museum": "science",
+        "museum_type": "departamental",
+        "name": "Museo del Humor",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-20:00; PH 12:00-20:00",
+        "phone": "+54 11 4516-0944",
+        "start_date": "2012",
+        "tourism": "museum",
+        "wikipedia": "es:Edificio de la Cervecería Munich",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3602193,
+          -34.6094422
+        ]
+      },
+      "id": "way/123963300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147938686",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2900",
+        "addr:postcode": "1425",
+        "addr:street": "Mariscal Ramón Castilla",
+        "alt_name": "Casa de San Martín",
+        "building": "house",
+        "building:levels": "2",
+        "description:en": "Replica of General José de San Martín's house in France. Scale a third bigger than original.",
+        "description:es": "Réplica de la casa del General José de San Martín en Francia. Escala un tercio más grande que la original.",
+        "museum": "history",
+        "name": "Instituto Sanmartiniano",
+        "name:de": "San Martín National Institute",
+        "name:en": "San Martín National Institute",
+        "name:fr": "Institut national de San Martín",
+        "name:nl": "San Martín Rijksinstituut",
+        "name:ru": "Сан - Мартин Национальный институт",
+        "name:zh": "聖馬丁全國學院",
+        "note": "Réplica de la casa del General José de San Martín en Francia. Escala un tercio más grande que la original. / Replica of General José de San Martín's house in France. Scale a third bigger than original.",
+        "phone": "+54 11 4802 3311",
+        "roof:shape": "mansard",
+        "source": "Conocimiento propio",
+        "tourism": "museum",
+        "website": "http://www.sanmartiniano.gov.ar/",
+        "wikidata": "Q7414874",
+        "wikipedia": "es:Instituto Nacional Sanmartiniano",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4015808,
+          -34.5804167
+        ]
+      },
+      "id": "way/147938686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149957847",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1701",
+        "addr:postcode": "C1107CND",
+        "addr:street": "Avenida España",
+        "description": "Calcos de esculturas y relieves egipcios, asirios, griegos, etruscos, romanos, románticos, góticos, renacentistas, etc.",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Museo de La Cárcova",
+        "official_name": "Museo de Calcos y Escultura comparada Ernesto de la Cárcova",
+        "phone": "+54 11 4361-4419",
+        "tourism": "museum",
+        "website": "https://museodelacarcova.una.edu.ar/",
+        "wikidata": "Q5394286",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3562373,
+          -34.6198758
+        ]
+      },
+      "id": "way/149957847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173065616",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "500",
+        "addr:postcode": "1144",
+        "addr:street": "Avenida Alicia Moreau de Justo",
+        "alt_name": "Fragata Uruguay",
+        "description": "Es el buque argentino más antiguo botado en 1874. Comprado por el presidente Domingo Farmiento Sarmiento. Integró la flota de hierro y vapor de nuestro país. Fué buque escuela. Sembró soberanía. En 1903 rescató la expedición científica del Dr. Otto Norde",
+        "heritage": "2",
+        "historic": "ship",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Corbeta_Uruguay_%28A.R.A.%29.jpg",
+        "museum_type": "national",
+        "name": "Buque Museo Corbeta A.R.A. Uruguay",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+54 11 4314-1090",
+        "ship:type": "corvette",
+        "source": "propia",
+        "start_date": "1874",
+        "tourism": "museum",
+        "website": "http://www.ara.mil.ar/pag.asp?idItem=113",
+        "wikidata": "Q143615",
+        "wikimedia_commons": "File:Corbeta Uruguay (A.R.A.).jpg",
+        "wikipedia": "en:ARA Uruguay",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3662317,
+          -34.6042134
+        ]
+      },
+      "id": "way/173065616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173065810",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:postcode": "C1107AAT",
+        "addr:street": "Puerto Madero. dique 3",
+        "alt_name": "Fragata Sarmiento",
+        "description": "El buque es un museo y monumento histórico nacional. Se exhiben fotografías e itinerarios de sus 37 viajes alrededor del mundo; mobiliario y cañones originales, uniformes; medallística; trofeos; armas y herramientas.",
+        "historic": "ship",
+        "museum": "military",
+        "museum_type": "national",
+        "name": "Buque Museo Fragata A.R.A. 'Presidente Sarmiento'",
+        "opening_hours": "Mo-Su 10:00-19:00",
+        "phone": "+54 11 4334-9386",
+        "ref": "n/a",
+        "ship:type": "frigate",
+        "start_date": "1964",
+        "tourism": "museum",
+        "wikidata": "Q296436",
+        "wikipedia": "es:ARA Presidente Sarmiento",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3656561,
+          -34.6089623
+        ]
+      },
+      "id": "way/173065810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176333994",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "100",
+        "addr:postcode": "C1063ACN",
+        "addr:street": "Avenida Paseo Colón",
+        "building:levels:underground": "1",
+        "description": "l Museo posee un acervo de varios miles de piezas de carácter histórico y artístico que abarcan desde el período hispánico hasta los presidentes argentinos.",
+        "email": "museo@presidencia.gob.ar",
+        "height": "0",
+        "level": "-1",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Casa Rosada",
+        "old_name": "Museo del Bicentenario",
+        "opening_hours": "Mo-Fr 10:00-18:00; Su 14:00-18:00",
+        "phone": "+54 11 4344-3802",
+        "start_date": "1961",
+        "tourism": "museum",
+        "website": "http://www.casarosada.gob.ar/museo",
+        "wikidata": "Q6034386",
+        "wikimedia_commons": "File:Museo del Bicentenario - Patio Maniobras 05.jpg",
+        "wikipedia": "es:Museo Casa Rosada",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3695448,
+          -34.6083104
+        ]
+      },
+      "id": "way/176333994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/204263802",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "336",
+        "addr:postcode": "C1004AAH",
+        "addr:street": "San Martín",
+        "building": "yes",
+        "description": "Mobiliario y objetos personales pertenecientes al general Bartolomé Mitre. Numismática y medallística. Archivo documental. Biblioteca y mapoteca, que abarcan desde el período colonial hasta el siglo XX.",
+        "heritage": "2",
+        "historic": "building",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Mitre",
+        "opening_hours": "Mo-Fr 13:00-17:30",
+        "phone": "+54 11 4394-7659",
+        "source": "DNPyM",
+        "tourism": "museum",
+        "website": "https://museomitre.cultura.gob.ar/",
+        "wikidata": "Q1290362",
+        "wikimedia_commons": "File:Museo Mitre.jpg",
+        "wikipedia": "es:Museo Mitre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3741462,
+          -34.6041133
+        ]
+      },
+      "id": "way/204263802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/205216893",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "999",
+        "addr:postcode": "C1001ABJ",
+        "addr:street": "Avenida del Libertador",
+        "building": "yes",
+        "description": "La colección esta conformada por planos, dibujos, fotografías de obras y proyectos de arquitectura y de destacadas momentos de la historia de la Arquitectura argentina.",
+        "email": "museo@socearq.org",
+        "facebook": "https://www.facebook.com/MARQ.SCA/",
+        "museum": "architecture",
+        "museum_type": "private",
+        "name": "Museo de Arquitectura y Diseño",
+        "opening_hours": "Tu-Su 13:00-20:00",
+        "phone": "+54 11 4800-1888",
+        "short_name": "MARQ",
+        "tourism": "museum",
+        "website": "http://socearq.org/2.0/marq/",
+        "wikidata": "Q17197966",
+        "wikimedia_commons": "File:Museo de Arquitectura y Diseño.jpg",
+        "wikipedia": "es:Museo de Arquitectura y Diseño",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3851572,
+          -34.586309
+        ]
+      },
+      "id": "way/205216893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210441310",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "219",
+        "addr:postcode": "C1065AAC",
+        "addr:street": "Defensa",
+        "building": "yes",
+        "description": "Los edificios sede del museo tiene valor patrimonial, estos son \"Casa Elorriaga\" (1809), \"Sasa Ezcurra (1830), \"Casa altos farmacia de la estrella\" (1895). Elementos que documentan el desarrollo edilicio y costumbrista de la ciudad de Buenos Aires",
+        "email": "infomuseociudad@buenosaires.gob.ar",
+        "museum": "history",
+        "museum_type": "departamental",
+        "name": "Museo de la Ciudad",
+        "opening_hours": "Mo,We,Th,Fr,Sa,PH 11:00-18:00",
+        "operator": "Gobierno de la Ciudad Autonoma de Buenos Aires",
+        "phone": "+54 11 4331-9855",
+        "source": "Reconocimiento terrestre por Kaart 2016",
+        "start_date": "1968",
+        "tourism": "museum",
+        "website": "https://www.buenosaires.gob.ar/museos/museo-de-la-ciudad",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.372255,
+          -34.6103829
+        ]
+      },
+      "id": "way/210441310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219731998",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "8571",
+        "addr:postcode": "C1429BNB",
+        "addr:street": "Avenida del Libertador",
+        "building": "yes",
+        "building:levels": "4",
+        "historic": "memorial",
+        "name": "Sitio de Memoria 'Casino de Oficiales - ESMA'",
+        "name:es": "Museo Sitio de Memoria ESMA",
+        "tourism": "museum",
+        "wikidata": "Q28663704",
+        "wikipedia": "es:Museo Sitio de Memoria ESMA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4652812,
+          -34.5366259
+        ]
+      },
+      "id": "way/219731998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227231967",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "470",
+        "addr:postcode": "C1405DJR",
+        "addr:street": "Avenida Ángel Gallardo",
+        "alt_name": "Instituto Nacional de Investigaciones de las Ciencias Naturales",
+        "building": "yes",
+        "description": "Zoología, botánica, geología, paleontología y sus divisiones.",
+        "email": "info@macn.gov.ar",
+        "museum": "nature",
+        "museum_type": "national",
+        "name": "Museo Argentino de Ciencias Naturales",
+        "official_name": "Museo Argentino de Ciencias Naturales Bernardino Rivadavia",
+        "opening_hours": "Mo-Su 14:00-19:00",
+        "operator": "CONICET",
+        "phone": "+54 11 4982-6595",
+        "short_name": "MACN",
+        "start_date": "1823",
+        "tourism": "museum",
+        "website": "http://www.macnconicet.gob.ar",
+        "wikidata": "Q1633517",
+        "wikipedia": "es:Museo Argentino de Ciencias Naturales",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4375026,
+          -34.6055662
+        ]
+      },
+      "id": "way/227231967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239518532",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "350",
+        "addr:postcode": "C1147AAO",
+        "addr:street": "Avenida San Juan",
+        "building": "yes",
+        "building:levels": "2",
+        "description": "El Mamba posee un importante patrimonio formado fundamentalmente por obras de aristas argentinos del siglo XX. Pinturas, esculturas, dibujos, grabados, especialmente de las décadas del 40, 50 y 60. Asimismo cabe mencionar obras de artistas internacionale",
+        "email": "info@museomoderno.org",
+        "fee": "yes",
+        "level": "0",
+        "museum": "art",
+        "museum_type": "departamental",
+        "name": "Museo de Arte Moderno de Buenos Aires",
+        "opening_hours": "Tu-Fr 10:00-20:00; Sa,Su 11:00-20:00",
+        "operator": "Dirección General de Museos, Ministerio de Cultura, Gobierno de la Ciudad de Buenos Aires",
+        "phone": "+54 11 4361-6919",
+        "short_name": "MAMBA",
+        "source": "personal",
+        "start_date": "1956",
+        "tourism": "museum",
+        "website": "https://www.museomoderno.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q1134582",
+        "wikimedia_commons": "File:FachadaModerno.jpg",
+        "wikipedia": "es:Museo de Arte Moderno de Buenos Aires",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3707439,
+          -34.6220742
+        ]
+      },
+      "id": "way/239518532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247463216",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2988",
+        "addr:postcode": "C1425FAB",
+        "addr:street": "Lafinur",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Museo Eva Perón",
+        "opening_hours": "Tu-Su 11:00-19:00",
+        "phone": "+54 011 48070306",
+        "tourism": "museum",
+        "website": "http://www.museoevita.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4147393,
+          -34.5807452
+        ]
+      },
+      "id": "node/247463216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/247464344",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "405",
+        "addr:postcode": "C1104AJN",
+        "addr:street": "Av. del Libertador Gral. San Martín",
+        "building": "yes",
+        "description": "Material vinculado con el sistema ferroviario nacional: vehículos, telefonía, faroles, uniformes, mobiliario, maquetas, etc. Correspondientes a la segunda mitad del siglo XIX al siglo XX.",
+        "email": "museoferroviario@adifse.com.ar",
+        "museum": "railway",
+        "museum_type": "national",
+        "name": "Museo Nacional Ferroviario",
+        "name:en": "Railway Museum",
+        "official_name": "Museo Nacional Ferroviario “Raúl Scalabrini Ortiz”",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "operator": "DNM",
+        "phone": "+54 11 4318-3343",
+        "start_date": "1969",
+        "tourism": "museum",
+        "website": "https://www.argentina.gob.ar/museoferroviario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3787619,
+          -34.5898239
+        ]
+      },
+      "id": "node/247464344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261439793",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2555",
+        "addr:postcode": "1425",
+        "addr:street": "Avenida General Las Heras",
+        "building": "yes",
+        "name": "Museo del Libro y de la Lengua",
+        "opening_hours": "Tu-Su 14:00-19:00",
+        "phone": "+54 11 4808-0090",
+        "tourism": "museum",
+        "website": "https://www.bn.gov.ar/biblioteca/museo",
+        "wikidata": "Q20639610",
+        "wikipedia": "es:Museo del Libro y de la Lengua",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3994041,
+          -34.5851582
+        ]
+      },
+      "id": "way/261439793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265133238",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1725",
+        "addr:postcode": "C1112ADE",
+        "addr:street": "Posadas",
+        "alt_name": "Palacio Nacional de las Artes",
+        "building": "yes",
+        "description": "El patrimonio artístico está conformado por los grandes premios y primeros premios adquisición del salón nacional de artes visuales.",
+        "email": "info@palaisdeglace.gob.ar",
+        "facebook": "https://www.facebook.com/PalacioNacionaldelasArtes/",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Palais de Glace",
+        "official_name": "Palais De Glace - Palacio Nacional De Las Artes",
+        "opening_hours": "Tu-Fr 12:00-20:00; Sa,Su 10:00-20:00",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4343-8167",
+        "tourism": "museum",
+        "twitter": "https://twitter.com/PalaisdeGlaceAr/",
+        "website": "https://www.palaisdeglace.gob.ar/",
+        "wheelchair": "no",
+        "wikidata": "Q1571142",
+        "wikipedia": "es:Palais de Glace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3893871,
+          -34.5856967
+        ]
+      },
+      "id": "way/265133238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298464450",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "6309",
+        "addr:postcode": "1431",
+        "addr:street": "Avenida Crisólogo Larralde",
+        "barrier": "fence",
+        "description": "Colecciones de platería rural; mobiliario, obras de arte, vestimentas, numismática, documentos, iconografía de la ciudad, armas, peinetones, monetario argentino y americano, etc., correspondientes a los siglos xviii y xix.",
+        "email": "museosaavedra@buenosaires.gob.ar",
+        "museum": "history",
+        "museum_type": "departamental",
+        "name": "Museo Histórico de Buenos Aires Cornelio de Saavedra",
+        "official_name": "Museo Histórico de Buenos Aires Brigadier General Cornelio de Saavedra",
+        "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 10:00-20:00; PH off",
+        "operator": "Gobierno de la Ciudad de Buenos Aires",
+        "phone": "+54 11 4572-0746",
+        "short_name": "Museo Histórico Cornelio de Saavedra",
+        "start_date": "1925",
+        "tourism": "museum",
+        "website": "https://www.buenosaires.gob.ar/museos/museo-historico-cornelio-de-saavedra",
+        "wikidata": "Q9046839",
+        "wikipedia": "es:Museo Histórico de Buenos Aires Cornelio de Saavedra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5078324,
+          -34.5683242
+        ]
+      },
+      "id": "way/298464450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319324183",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "8151",
+        "addr:street": "Av. del Libertador",
+        "building": "yes",
+        "description": "Por el momento tenemos objetos prestados de otras instituciones, contamos con una colección pequeña y en formación y que esperamos que en breve se amplíe.",
+        "museum_type": "national",
+        "name": "Museo Malvinas e Islas del Atlántico Sur",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4701-7083",
+        "postal_code": "C1429BNB",
+        "tourism": "museum",
+        "wikidata": "Q17197967",
+        "wikimedia_commons": "File:Museo Malvinas e Islas del Atlántico Sur 2.jpg",
+        "wikipedia": "es:Museo Malvinas e Islas del Atlántico Sur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4624589,
+          -34.5366097
+        ]
+      },
+      "id": "way/319324183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415174274",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2390",
+        "addr:postcode": "C1428AGL",
+        "addr:street": "O'Higgins",
+        "description": "Casa neocolonial perteneció al escultor argentino Rogelio Yrurtia y a la pintora Lía Correa Morales; que la donaron a la Nación. Se exhiben bocetos y estudios, obras en bronce y yeso, pinturas, mobiliario y objetos utilitarios y decorativos.",
+        "email": "info@museocasadeyrutia.gov.ar",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Casa de Yrurtia",
+        "opening_hours": "We-Fr 10:30-17:00; Sa,Su 10:30-18:00",
+        "phone": "+54 11 4781-0385",
+        "start_date": "1949-07-09",
+        "tourism": "museum",
+        "website": "https://museoyrurtia.cultura.gob.ar/",
+        "wikidata": "Q18378393",
+        "wikipedia": "en:Museo Casa de Rogelio Yrurtia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.455534,
+          -34.5573828
+        ]
+      },
+      "id": "way/415174274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415174276",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2180",
+        "addr:postcode": "C1428DNJ",
+        "addr:street": "Avenida Juramento",
+        "contact:phone": "+54 11 4783-7555",
+        "contact:website": "https://museosarmiento.cultura.gob.ar/",
+        "description": "Mobiliario, objetos y documentación pertenecientes a Domingo Faustino Sarmiento, a Nicolás Avellaneda y a los congresales de 1880. Obras de arte de Augusto y Eugenia Belín Sarmiento. Medallas conmemorativas, libros. Biblioteca y archivo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cabildo_de_bs_as.jpg",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico Sarmiento",
+        "opening_hours": "Mo-Fr 13:00-18:00 Sa-Su 15:00-18:30",
+        "start_date": "1942",
+        "tourism": "museum",
+        "wikidata": "Q576857",
+        "wikimedia_commons": "File:Cabildo de bs as.jpg",
+        "wikipedia": "es:Cabildo_de_Buenos_Aires",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4542108,
+          -34.5610091
+        ]
+      },
+      "id": "way/415174276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553890921",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "6745",
+        "addr:postcode": "C1428EIS",
+        "addr:street": "Avenida Costanera Rafael Obligado",
+        "barrier": "wall",
+        "email": "parquedelamemoria@buenosaires.gob.ar",
+        "historic": "memorial",
+        "material": "concrete",
+        "memorial": "plaque",
+        "museum": "history",
+        "name": "Monumento a las Víctimas del Terrorismo de Estado",
+        "phone": "+54 11 4787-0999",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4365556,
+          -34.5410955
+        ]
+      },
+      "id": "way/553890921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558418256",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "140",
+        "addr:postcode": "C1437EYD",
+        "addr:street": "Zavaleta",
+        "building": "yes",
+        "description": "Algunas salas que lo componen son las de: teléfonos antiguos, libertador San Martín, parque de la patria, premios militares y medallas, muñecos, usos y costumbres. Colecciónes de: mates de plata, abanicos y peinetones, muestra de ciencias naturales...",
+        "email": "museo@corralesviejos.com",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo de los Corrales Viejos",
+        "official_name": "Museo de los Corrales Viejos de Parque de los Patricios",
+        "opening_hours": "Mo-Sa 10:00-17:00 \"call for info\"",
+        "phone": "+54 11 4308-0056",
+        "tourism": "museum",
+        "website": "http://www.corralesviejos.com",
+        "wikidata": "Q63615008",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4032186,
+          -34.6384751
+        ]
+      },
+      "id": "way/558418256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/577584991",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1190",
+        "addr:postcode": "C1099AAY",
+        "addr:street": "Avenida Independencia",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "description": "Casa de retiros y convento fundado por la venerable María Antonia de San José en 1795. En su interior se puden observar sus nueve claustros de estilo barroco colonial originales con sus espadañas, brocales y piso de ladrillos...",
+        "email": "artesacro@csel.com",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo de la Santa Casa de Ejercicios Espirituales Sor María Antonia de la Paz y Figueroa",
+        "phone": "+54 11 4304-0984",
+        "religion": "christian",
+        "source": "propia",
+        "start_date": "1795",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3824417,
+          -34.6181299
+        ]
+      },
+      "id": "way/577584991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/619211859",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "735",
+        "addr:postcode": "C1215ACM",
+        "addr:street": "Jean Jaures",
+        "building": "yes",
+        "description": "El museo tiene sede en la casa donde vivieron Carlos Gardel y su madre, reconstruida en base a su concepción original. Muestra el universo Gardeliano, desde el mito forjado en el imaginario colectivo hasta la intimidad de la vida cotidiana.",
+        "heritage": "2",
+        "historic": "building",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Casa Carlos Gardel",
+        "opening_hours": "Mo-Fr 11:00-18:00, Sa-Su 10:00-18:00",
+        "phone": "+54 11 4964-2015",
+        "start_date": "1920",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q21480852",
+        "wikimedia_commons": "File:Museo Carlos Gardel, Buenos Aires.jpg",
+        "wikipedia": "es:Museo Casa Carlos Gardel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4078119,
+          -34.6016727
+        ]
+      },
+      "id": "way/619211859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/619353732",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1902",
+        "addr:postcode": "C1425AAS",
+        "addr:street": "Avenida del Libertador",
+        "building": "yes",
+        "description": "El Museo Nacional de Arte Oriental cuenta con más de 3000 piezas entre pinturas, esculturas, grabados, objetos de uso cotidiano y de culto, indumentaria, fotografías, mobiliario e instrumentos musicales de Asia, África y Oceanía.",
+        "email": "museo@mnad.org",
+        "level": "1",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Museo de Arte Decorativo",
+        "opening_hours": "Tu-Su 12:30-19:00",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4801-8248",
+        "tourism": "museum",
+        "website": "https://museoartedecorativo.cultura.gob.ar",
+        "wheelchair": "no",
+        "wikidata": "Q50358716",
+        "wikipedia": "es:Museo Nacional de Arte Oriental",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4010786,
+          -34.5826639
+        ]
+      },
+      "id": "way/619353732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673011807",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "328",
+        "addr:postcode": "C1147AAO",
+        "addr:street": "Avenida San Juan",
+        "architect": "Estudio de arquitectura Vila Sebastián Arquitectos",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "El MACBA es un establecimiento privado impulsado por el coleccionista de arte contemporáneo Aldo Rubino con el objetivo de adquirir, conservar, investigar, documentar, comunicar y exhibir el arte contemporáneo nacional e internacional.",
+        "fee": "yes",
+        "level": "0",
+        "museum": "art",
+        "museum_type": "private",
+        "name": "Museo de Arte Contemporáneo de Buenos Aires",
+        "official_name": "Museo de Arte Contemporáneo de Buenos Aires",
+        "opening_hours": "Mo-Fr 11:00-19:00, Sa-Su 11:00-19:30",
+        "operator": "Fundación Aldo Rubino",
+        "phone": "+54 11 5263-9988",
+        "short_name": "MACBA",
+        "source": "propia",
+        "start_date": "2010",
+        "tourism": "museum",
+        "website": "https://www.macba.com.ar/",
+        "wheelchair": "yes",
+        "wikidata": "Q6033856",
+        "wikimedia_commons": "File:Museo de Arte Contemporáneo de Buenos Aires.jpg",
+        "wikipedia": "es:Museo de Arte Contemporáneo de Buenos Aires",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.370193,
+          -34.6220093
+        ]
+      },
+      "id": "way/673011807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/686711264",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "644",
+        "addr:postcode": "C1405ALD",
+        "addr:street": "Pujol",
+        "description": "Esculturas en marmol, bronce, tallas en madera y yesos originales de Luis Perlotti.",
+        "email": "museoperlotti@buenosaires.gob.ar",
+        "museum": "art",
+        "museum_type": "provincial",
+        "name": "Museo de Esculturas Luis Perlotti",
+        "opening_hours": "We-Mo 10:00-18:00; PH 10:00-18:00",
+        "phone": "+54 11 4433-3396",
+        "start_date": "2008",
+        "tourism": "museum",
+        "website": "https://www.buenosaires.gob.ar/museoluisperlotti/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484739,
+          -34.6151019
+        ]
+      },
+      "id": "way/686711264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/724265243",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1422",
+        "addr:postcode": "C1011ACF",
+        "addr:street": "Suipacha",
+        "building": "yes",
+        "description": "Platería, imaginería, pintura y mobiliario hispanoamericano de los siglos XVI al XIX. Numismática de los siglos XVI al XX. Indumentaria civil y religiosa de los siglos XVIII y XIX.",
+        "fee": "yes",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Museo de Arte Hispanoamericano",
+        "official_name": "Museo de Arte Hispanoamericano Isaac Fernandez Blanco",
+        "opening_hours": "Tu-Fr 10:00-19:00, Sa-Su 11:00-19:00; PH 11:00-19:00",
+        "phone": "+54 11 4327-0228",
+        "start_date": "1925",
+        "tourism": "museum",
+        "website": "https://www.buenosaires.gob.ar/museofernandezblanco",
+        "wikidata": "Q1954289",
+        "wikimedia_commons": "File:Palacio Noel (fachada).JPG",
+        "wikipedia": "es:Museo de Arte Hispanoamericano Isaac Fernández Blanco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3801161,
+          -34.5907972
+        ]
+      },
+      "id": "node/724265243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/724269086",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2373",
+        "addr:postcode": "1425AAJ",
+        "addr:street": "Avenida del Libertador",
+        "building": "yes",
+        "description": "Platería rioplatense de los siglos XVIII al XX: cabezadas, aperos, cuchillos, estribos, rastras, mates, etc. Artesanías regionales: imaginería, alfarería, tejidos, instrumentos musicales, máscaras, armas y pinturas. Reconstrucción de una antigua pulpería",
+        "email": "infomap@buenosaires.gob.ar",
+        "fee": "yes",
+        "museum": "art",
+        "museum_type": "departamental",
+        "name": "Museo de Arte Popular José Hernández",
+        "opening_hours": "Th-Fr 13:00-19:00; Sa-Su 10:00-20 :00",
+        "operator": "Gobierno de la Ciudad Autonoma de Buenos Aires",
+        "phone": "+54 11 4803-2484",
+        "start_date": "1952",
+        "tourism": "museum",
+        "website": "https://www.buenosaires.gob.ar/museos/museo-de-arte-popular-jose-hernandez",
+        "wikidata": "Q21573456",
+        "wikimedia_commons": "File:MAPJH01.JPG",
+        "wikipedia": "es:Museo de Arte Popular José Hernández"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4049882,
+          -34.5797076
+        ]
+      },
+      "id": "node/724269086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/767690911",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "65",
+        "addr:postcode": "C1066AAA",
+        "addr:street": "Bolívar",
+        "building": "yes",
+        "description": "Sus colecciones estan distribuídas en las salas: capitular, de mayo, invasiones inglesas, hall central, sala Hardoy, galería de los virreyes y calabozo.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cabildo_de_bs_as.jpg",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico Nacional del Cabildo y de la Revolución de Mayo",
+        "name:ru": "Ратуша Буэнос-Айреса",
+        "name:uk": "Ратуша Буенос-Айреса",
+        "operator": "DNPyM",
+        "phone": "+54 11 4342-6729",
+        "start_date": "1943",
+        "tourism": "museum",
+        "website": "https://cabildonacional.cultura.gob.ar/",
+        "wikidata": "Q1024829",
+        "wikimedia_commons": "File:Cabildo de bs as.jpg",
+        "wikipedia": "es:Cabildo de Buenos Aires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3738806,
+          -34.6087695
+        ]
+      },
+      "id": "node/767690911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1144740023",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "919",
+        "addr:postcode": "C1019ABS",
+        "addr:street": "Montevideo",
+        "building": "yes",
+        "email": "informaciones@fmh.org.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo del Holocausto",
+        "phone": "+54 11 4811-3588",
+        "tourism": "museum",
+        "website": "https://www.museodelholocausto.org.ar/",
+        "wikidata": "Q6034447",
+        "wikimedia_commons": "File:Museo del Holocausto, Buenos Aires.jpg",
+        "wikipedia": "es:Museo del Holocausto (Buenos Aires)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3895532,
+          -34.5980366
+        ]
+      },
+      "id": "node/1144740023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295503813",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2220",
+        "addr:postcode": "C1128ACJ",
+        "addr:street": "Vicente López",
+        "building": "yes",
+        "contact:phone": "+54 11 4803-2798",
+        "contact:website": "https://museoroca.cultura.gob.ar/",
+        "description": "Documentos y objetos referidos a la vida y obra del General Julio A. Roca y a la generación del 80, y especialmente al período de la conquista del desierto. Iconografía, oplotecología, medallística. Biblioteca",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Roca",
+        "official_name": "Museo Roca - Instituto de Investigaciones Históricas",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4803-2798",
+        "start_date": "1962",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3955349,
+          -34.587663
+        ]
+      },
+      "id": "node/1295503813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1625193970",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "702",
+        "addr:postcode": "C1059ABO",
+        "addr:street": "Avenida Santa Fe",
+        "description": "Armas en general desde el siglo XII hasta la segunda guerra mundial. Armas usadas en el país desde la conquista y colonización hasta nuestros días. Cuadros, uniformes, documentos.",
+        "email": "museo@circulomilitar.org",
+        "museum": "military",
+        "museum_type": "national",
+        "name": "Museo de Armas de la Nación",
+        "official_name": "Museo de Armas de la Nación Tte. Gral. Pablo Riccheri",
+        "opening_hours": "Mo-Fr 13:00-19:00",
+        "phone": "+54 11 4311-1071",
+        "start_date": "1944",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3771226,
+          -34.5960316
+        ]
+      },
+      "id": "node/1625193970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1856412658",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2837",
+        "addr:postcode": "C1425BMG",
+        "addr:street": "Charcas",
+        "building": "yes",
+        "description": "Obras de arte, objetos históricos y de arqueología, etnografía y folklore, vinculados a Ricardo Rojas y a su época.",
+        "email": "casadericardorojas@hotmail.com",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Casa de Ricardo Rojas",
+        "opening_hours": "Th-Sa 11:00-19:0",
+        "operator": "DNPyM",
+        "phone": "+54 11 4824-4039",
+        "start_date": "1962",
+        "tourism": "museum",
+        "website": "https://museorojas.cultura.gob.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4062627,
+          -34.5939504
+        ]
+      },
+      "id": "node/1856412658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1943300045",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "805",
+        "addr:postcode": "C1161AAQ",
+        "addr:street": "Brandsen",
+        "description": "La historia del Club Atlético Boca Juniors se expresa en este museo, junto con la historia del fútbol en el país, la identidad del barrio de La Boca y la cultura popular de los argentinos.",
+        "museum_type": "private",
+        "name": "Museo de la Pasión Boquense",
+        "operator": "Club Atlético Boca Juniors",
+        "phone": "+54 11 4362-1100",
+        "tourism": "museum",
+        "website": "www.museoboquense.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3647854,
+          -34.6365385
+        ]
+      },
+      "id": "node/1943300045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2205018784",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "3071",
+        "addr:postcode": "C1225AAM",
+        "addr:street": "Av. Independencia",
+        "description": "Alberga gran parte del instrumental científico del Laboratorio de Psicología Experimental que fundó Horacio Piñero en 1901, en la Facultad de Filosofía y Letras de la Universidad de Buenos Aires.",
+        "email": "museopsi@psi.uba.ar",
+        "level": "3",
+        "museum": "science",
+        "museum_type": "institutional",
+        "name": "Museo de la Psicología Experimental en Argentina 'Dr. Horacio G. Piñero'",
+        "phone": "+54 11 4957-4348",
+        "source": "Reconocimiento terrestre 2016 por Kaart.",
+        "start_date": "1997",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4087291,
+          -34.6197274
+        ]
+      },
+      "id": "node/2205018784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2720147742",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "905",
+        "addr:postcode": "C1070AAS",
+        "addr:street": "Piedras",
+        "description": "La colección cuenta con más de 500 títeres de distintas partes del mundo:Europa, Asia, América. Los más antiguos datan del siglo XIX. Se destaca una colección de figuras de Sombre de Turquía. El museo cuenta con una sala para 40 espectadores.",
+        "museum": "science",
+        "museum_type": "private",
+        "name": "Museo Argentino del Títere",
+        "opening_hours": "We-Su 15:00-18:00",
+        "operator": "1987",
+        "phone": "+54 11 4307-6917",
+        "source": "propia",
+        "tourism": "museum",
+        "website": "https://museodeltiterebsas.wixsite.com/museoargdeltitere",
+        "wikidata": "Q16609671",
+        "wikipedia": "es:Museo Argentino del Títere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3773987,
+          -34.6186364
+        ]
+      },
+      "id": "node/2720147742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2734408325",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "955",
+        "addr:postcode": "C1069AAS",
+        "addr:street": "Chacabuco",
+        "description": "El museo tiene como misión proteger, conservar y difundir el patrimonio y las costumbres de la colectividad Gallega que arribó a la Argentina durante los siglos XIX y XX. Objetos y documentos vinculados a la emigración, al exilio y a la República Español",
+        "email": "mega-museo@speedy.com.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo de la Emigración Gallega en la Argentina",
+        "opening_hours": "Mo, We 15:00-20:00; Sa 17:00-20:00",
+        "phone": "+54 11 4362-5963",
+        "start_date": "2007",
+        "tourism": "museum",
+        "website": "http://www.fsgallegas.org.ar/museo_intro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3758946,
+          -34.6191682
+        ]
+      },
+      "id": "node/2734408325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3641685691",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "381",
+        "addr:postcode": "C1426AAD",
+        "addr:street": "Avenida Cabildo",
+        "email": "museo@ign.gob.ar",
+        "name": "Museo Profesor Miguel Ángel Fernández",
+        "phone": "+54 011 4576 5576",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4401168,
+          -34.571818
+        ]
+      },
+      "id": "node/3641685691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177131240",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2647",
+        "addr:postcode": "C1430FED",
+        "addr:street": "Superí",
+        "description": "El museo desarrolla muestras que permiten abordar la educación orientada a la promoción de derechos humanos y no discriminación. El material en exposición ha sido realizado en cooperación con la Fundación Ana Frank de Holanda.",
+        "email": "argentina@annefrank.nl",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Ana Frank",
+        "opening_hours": "Tu-Sa 14:00-19:00",
+        "phone": "+54 011 3533-8505",
+        "tourism": "museum",
+        "website": "http://www.centroanafrank.com.ar/museo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4707076,
+          -34.5629374
+        ]
+      },
+      "id": "node/4177131240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4293917798",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "769",
+        "addr:postcode": "C1012AAO",
+        "addr:street": "Libertad",
+        "building": "yes",
+        "description": "Documentos sobre la colonización judía, la congregación israelita de la república argentina año 1862 y escritores y hombres públicos argentinos de origen judío. Antiguos objetos de culto. Prensa judía de distintos paises. Manuscritos de Alberto Gerchunof",
+        "email": "contacto@museojudio.org.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Judío de Buenos Aires",
+        "official_name": "Museo Judío de Buenos Aires \"Dr. Salvador Kibrick\"",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "phone": "+54 11 4123 0832",
+        "start_date": "1970",
+        "tourism": "museum",
+        "website": "http://museojudio.org.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3837137,
+          -34.5995877
+        ]
+      },
+      "id": "node/4293917798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4455356796",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1370",
+        "addr:postcode": "C1426BJN",
+        "addr:street": "3 de Febrero",
+        "contact:website": "http://museodelhombre.cultura.gob.ar/",
+        "description": "Arqueología argentina y sudamericana, etnografía argentina, sudamericana, africana. Artesanías tradicionales argentinas, latinoamericanas, africanas, européas y asiáticas. Cuenta con un patrimonio de más de 5000 piezas en permanente crecimiento.",
+        "email": "museo@bibapl.edu.ar",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Nacional del Hombre",
+        "opening_hours": "Tu-Fr 10:00-20:00",
+        "operator": "Dirección Nacional de Museos",
+        "phone": "+54 11 4783-6554",
+        "start_date": "1981",
+        "tourism": "museum",
+        "wikidata": "Q50351269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4463934,
+          -34.5664214
+        ]
+      },
+      "id": "node/4455356796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4516412371",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "490",
+        "addr:postcode": "C1427BRJ",
+        "addr:street": "Guevara",
+        "description": "Colección de instrumentos musicales, materiales, herramientas, fotos, documentos de archivo, objetos, inventos. Historia del acordeón en Argentina, su incidencia en el desarrollo de la música en el país.",
+        "email": "info@anconetani.net",
+        "museum_type": "private",
+        "name": "Museo Anconetani Del Acordeón - Musa",
+        "opening_hours": "Tu, Th 16:00-18:30",
+        "phone": "+54 11 4553-9440",
+        "start_date": "2007",
+        "tourism": "museum",
+        "website": "http://www.anconetani.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4514773,
+          -34.5865654
+        ]
+      },
+      "id": "node/4516412371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619155089",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1429",
+        "addr:postcode": "C1167ACC",
+        "addr:street": "Gral. José Garibaldi",
+        "name": "Museo Conventillo 'Marjan Grum'",
+        "name:es": "Museo Conventillo 'Marjan Grum'",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3636511,
+          -34.6394412
+        ]
+      },
+      "id": "node/4619155089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919296695",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1990",
+        "addr:postcode": "C1428AID",
+        "addr:street": "11 de Septiembre de 1888",
+        "description": "El museo cobija la colección Badii constituida por más de 300 obras, entre pinturas, óleos, grabados, dibujos, esculturas, aguafuertes, libros y serigrafías.",
+        "museum_type": "private",
+        "name": "Museo Líbero Badií",
+        "phone": "+54 11 4784-8650",
+        "tourism": "museum",
+        "wikidata": "Q63441998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4503196,
+          -34.5598661
+        ]
+      },
+      "id": "node/4919296695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5304552618",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "S/N",
+        "addr:postcode": "C1104ACC",
+        "addr:street": "Av. Antártida Argentina",
+        "description": "Está situado en el antiguo hotel de inmigrantes (1911-1953). Valora el conjunto arquitectónico, destacando la importancia histórica, cultural, económica y social del fenómeno inmigratorio en el país.",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo de la Inmigración",
+        "official_name": "Hotel de Inmigrantes",
+        "opening_hours": "Tu-Su 12:00-20:00",
+        "operator": "UNTREF",
+        "phone": "+54 11 4317-0285",
+        "start_date": "1974",
+        "tourism": "museum",
+        "website": "http://untref.edu.ar/muntref/museo-de-la-inmigracion/",
+        "wikidata": "Q48795653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3679084,
+          -34.5930366
+        ]
+      },
+      "id": "node/5304552618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5405921752",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "3901",
+        "addr:postcode": "C1427EDE",
+        "addr:street": "Avenida Federico Lacroze",
+        "description": "Ubicado en las instalaciones del Bar Palacio del barrio de Chacarita, uno de los objetivos del museo es la transmisión didáctica, visual y técnica de la evolución de la fotografía y las cámaras fotográficas desde sus inicios.",
+        "email": "info@simik.com.ar",
+        "museum_type": "private",
+        "name": "Museo Fotográfico Simik",
+        "opening_hours": "Mo-Su 09:00-23:45",
+        "phone": "+54 11 4554-5529",
+        "tourism": "museum",
+        "website": "http://museofotograficosimik.com",
+        "wikidata": "Q6033370",
+        "wikimedia_commons": "File:Museo Fotográfico Simik 1.jpg",
+        "wikipedia": "es:Museo Fotográfico Simik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537213,
+          -34.5843296
+        ]
+      },
+      "id": "node/5405921752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5452358819",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "147",
+        "addr:postcode": "C1015AAA",
+        "addr:street": "Rodolfo Rivarola",
+        "building": "yes",
+        "description": "Exposiciones, cursos, seminarios, conferencias y coloquios destinados a fomentar la reinvindicación de los derechos e intereses de las mujeres, su lucha histórica contra la doble opresión y subordinación de género. El museo propone el rescate y difusión",
+        "museum_type": "private",
+        "name": "Museo de la Mujer",
+        "phone": "+54 11 4383-9054",
+        "tourism": "museum",
+        "wikidata": "Q30902113",
+        "wikipedia": "es:Museo de la Mujer Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3853485,
+          -34.6068838
+        ]
+      },
+      "id": "node/5452358819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554504295",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "830",
+        "addr:postcode": "C1002AAT",
+        "addr:street": "Av. Rivadavia",
+        "building": "yes",
+        "description": "El museo realiza un recorrido por la historia del tango desde 1850 hasta la actualidad, un almacén de venta de CD y otros objetos tangueros y una muestra de fotos de Annemarie Heinrich de lcélebres figuras del tango y el cine.",
+        "internet_access": "no",
+        "museum": "local",
+        "museum_type": "private",
+        "name": "Museo Mundial del Tango",
+        "opening_hours": "Mo-Fr 14:30-19:30",
+        "phone": "+54 11 4345-6967",
+        "tourism": "museum",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3784055,
+          -34.6082955
+        ]
+      },
+      "id": "node/5554504295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5617667887",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "6436",
+        "addr:postcode": "C1440BBO",
+        "addr:street": "Av. de los Corrales",
+        "description": "Colecciones referidas a la tradición e historia del campo argentino, sus hombres, usos y costumbres, en el período comprendido entre 1750 y 1900.",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Criollo de los Corrales",
+        "opening_hours": "Mo-Sa 10:00-17:00 \"call for info\"",
+        "phone": "+54 11 4687-1949",
+        "start_date": "1967",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4995777,
+          -34.6626257
+        ]
+      },
+      "id": "node/5617667887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5633957322",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "350",
+        "addr:postcode": "C1091AAH",
+        "addr:street": "Moreno",
+        "architect": "Pedro Benoit",
+        "architect:wikidata": "Q600478",
+        "architect:wikipedia": "es:Pedro Benoit",
+        "description": "Colecciones de arqueología, etnografía y folklore, correspondientes a diversas épocas, culturas y lugares geográficos, la mayoría de Argentina.",
+        "email": "info.museo@filo.uba.ar",
+        "internet_access": "no",
+        "museum": "etnographic",
+        "museum_type": "national",
+        "name": "Museo Etnográfico Juan Bautista Ambrosetti",
+        "name:en": "Juan B. Ambrosetti ethnographic museum",
+        "name:fr": "Musée Ethnographique Juan B. Ambrosetti",
+        "opening_hours": "Tu-Fr 13:00-19:00; Sa-Su 15:00-19:00",
+        "phone": "+54 11 4345-8196",
+        "start_date": "1870s",
+        "tourism": "museum",
+        "website": "http://museo.filo.uba.ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3710224,
+          -34.6113319
+        ]
+      },
+      "id": "node/5633957322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5721009562",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1835",
+        "addr:postcode": "C1169AAC",
+        "addr:street": "Avenida Don Pedro de Mendoza",
+        "description": "Obras figurativas de pintura, escultura, cerámica, grabado, etc. Obras de Benito Quinquela Martín. Mascarones de proa. Se conserva el atelier del maestro y una habitación que le servía de dormitorio. Cuenta también con tres terrazas al aire libre con esc",
+        "email": "museoquinquelamartin@buenosaires.gob.ar",
+        "facebook": "https://www.facebook.com/MuseoQuinquela/",
+        "museum": "art",
+        "museum_type": "departamental",
+        "name": "Museo Benito Quinquela Martín",
+        "official_name": "Museo de Bellas Artes de La Boca de Artistas Argentinos Benito Quinquela Martín",
+        "opening_hours": "Tu-Fr 10:00-18:00; Sa,Su 11:15-18:00",
+        "phone": "+54 11 4301-1080",
+        "start_date": "1936",
+        "tourism": "museum",
+        "twitter": "https://www.twitter.com/museoquinquela/",
+        "website": "http://www.buenosaires.gob.ar/museoquinquelamartin/",
+        "wikidata": "Q6033930",
+        "wikipedia": "es:Museo de Artistas Argentinos Benito Quinquela Martín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3613682,
+          -34.6389831
+        ]
+      },
+      "id": "node/5721009562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5850559341",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "378",
+        "addr:postcode": "C1103ACH",
+        "addr:street": "Humberto I",
+        "description": "Elementos relacionados con la institución penitenciaria: mobiliario y otros objetos, réplicas de celdas, documentos, desde 1822 hasta el presente.",
+        "email": "museopenitenciario@gmail.com",
+        "email2": "museopenitenciario@spf.gov.ar",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Penitenciario Argentino 'Antonio Ballvé'",
+        "old_name": "Carcel de Mujeres",
+        "opening_hours": "Th-Su 14:00-18:00",
+        "operator": "Servicio Penitenciario Federal",
+        "phone": "+54 11 4361-0917",
+        "start_date": "1984",
+        "tourism": "museum",
+        "wikidata": "Q6033667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3709943,
+          -34.6209229
+        ]
+      },
+      "id": "node/5850559341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5850576502",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "750",
+        "addr:postcode": "C1025ABP",
+        "addr:street": "Riobamba",
+        "building": "yes",
+        "contact:email": "museo_patrimonio@aysa.com.ar",
+        "description": "Edificio construido entre 1887 y 1894. Contiene los grandes depósitos distribuidores, que abastecieron a la ciudad durante más de medio siglo. La exposición de antiguos artefactos sanitarios, cañerías y piezas cuenta la historia sanitaria porteña.",
+        "level": "1",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo del Patrimonio del Palacio de las Aguas Corrientes",
+        "opening_hours": "Mo-Fr 09:00-13:00",
+        "operator": "Dirección Relaciones Institucionales, AySA",
+        "phone": "+54 11 6319-1104",
+        "start_date": "1996",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3950189,
+          -34.6002969
+        ]
+      },
+      "id": "node/5850576502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5851956852",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2265",
+        "addr:postcode": "1408",
+        "addr:street": "Irigoyen",
+        "building": "yes",
+        "museum": "transport",
+        "museum_type": "private",
+        "name": "Museo del Automóvil",
+        "opening_hours": "Sa-Su, PH 14:00-19:00",
+        "phone": "+54 11 4644-0828",
+        "tourism": "museum",
+        "website": "http://www.museodelautomovil.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5260774,
+          -34.6206489
+        ]
+      },
+      "id": "node/5851956852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5852946241",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1902",
+        "addr:postcode": "C1425AAS",
+        "addr:street": "Avenida del Libertador",
+        "description": "El Museo Nacional de Arte Oriental cuenta con más de 3000 piezas entre pinturas, esculturas, grabados, objetos de uso cotidiano y de culto, indumentaria, fotografías, mobiliario e instrumentos musicales de Asia, África y Oceanía.",
+        "level": "1",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Museo Nacional de Arte Oriental",
+        "opening_hours": "\"closed\"",
+        "operator": "Dirección Nacional de Museos",
+        "start_date": "1965",
+        "tourism": "museum",
+        "website": "https://mnao.cultura.gob.ar/",
+        "wheelchair": "no",
+        "wikidata": "Q50358716",
+        "wikimedia_commons": "File:Foto-fachada-MNAO.jpg",
+        "wikipedia": "es:Museo Nacional de Arte Oriental"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4011469,
+          -34.5825696
+        ]
+      },
+      "id": "node/5852946241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5969057302",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "832",
+        "addr:street": "Chile",
+        "building": "yes",
+        "description": "Piezas de indumentaria civil urbana de distintas extracciones sociales, de adultos, jóvenes y niños. Accesorios (bastones, sombrillas, zapatos, etc.)",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo de la Historia del Traje",
+        "opening_hours": "Tu-Su 11:00-19:00",
+        "operator": "Ministerio de Educación, Cultura, Ciencia y Tecnología. Presidencia de la Nación.",
+        "start_date": "1976",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3779159,
+          -34.6163302
+        ]
+      },
+      "id": "node/5969057302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981895609",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "3054",
+        "addr:postcode": "C1189AAH",
+        "addr:street": "Tucumán",
+        "building": "yes",
+        "description": "En la que fuera casa del clown travesti literario Batato Barea, ícono indiscutible del under porteño, se ha erigido un museo que lo evoca a través de innumerables registros en video proyecciones, fotografías, libros y objetos.",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Casa de Batato Barea",
+        "opening_hours": "Mo-Sa 10:00-17:00 \"call for info\"",
+        "phone": "+54 11 4962-2592",
+        "tourism": "museum",
+        "wikidata": "Q63589326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4085608,
+          -34.601084
+        ]
+      },
+      "id": "node/5981895609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981911163",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "536",
+        "addr:postcode": "C1231AAB",
+        "addr:street": "Catamarca",
+        "description": "Surge como un ambicioso proyecto de los doctores Rubén A. Posse -precursor y maestro de la cardiología argentina- y Agustín Badano, quienes en el viejo Hospital Mariano Castex habían colocado el primer marcapasos a un ser humano en Latinoamérica.",
+        "email": "info@caccv.org.ar",
+        "museum": "local",
+        "museum_type": "private",
+        "name": "Museo de Marcapasos y Precursores de la Medicina Moderna",
+        "opening_hours": "Fr 15:30-17:30",
+        "phone": "+54 11 4931-2560",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4054196,
+          -34.6166971
+        ]
+      },
+      "id": "node/5981911163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981927165",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "650",
+        "addr:postcode": "C1025ABN",
+        "addr:street": "Riobamba",
+        "building": "yes",
+        "description": "El Museo del Colegio La Salle es un gabinete de curiosidades: lo singular y lo exótico cautivan por la poética del coleccionismo característico del siglo XIX, donde la imaginación creativa se completó con el rigor científico.",
+        "email": "dirgral@delasalle.esc.edu.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo del Colegio de La Salle de Ciencias Naturales y del Hombre",
+        "tourism": "museum",
+        "wikidata": "Q63589426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3943907,
+          -34.6015074
+        ]
+      },
+      "id": "node/5981927165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981929851",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1647",
+        "addr:postcode": "C1037ACD",
+        "addr:street": "Teniente General Juan Domingo Perón",
+        "description": "Su colección cuenta con más de 500 piezas, con aparatología diversa en su conjunto, hallando audífonos del siglo pasado, -a carbón, a válvula, solar, de caja, etc.- incluyendo asimismo modelos actuales.",
+        "email": "jorgebek@yahoo.com.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo del Audífono",
+        "opening_hours": "Mo-Fr 10:00-17:30",
+        "phone": "+54 11 4382-9068",
+        "tourism": "museum",
+        "website": "http://www.museodelaudifono.com.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3900664,
+          -34.6065664
+        ]
+      },
+      "id": "node/5981929851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981974142",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1702",
+        "addr:postcode": "C1089AAH",
+        "addr:street": "Hipólito Yrigoyen",
+        "building": "yes",
+        "description": "Se exhiben las copias fieles de las Constituciones de 1853 y 1994, y su traducción en Sistema Braille. Se exponen fotografías de negativos en vidrios, una colección de dibujos originales de caricaturas de Caras y Caretas del 30, y sellos, lacres...",
+        "email": "bbruno@senado.gov.ar",
+        "name": "Museo del Senado de la Nación",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3906449,
+          -34.6103731
+        ]
+      },
+      "id": "node/5981974142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981990519",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "760",
+        "addr:postcode": "C1026ABP",
+        "addr:street": "Junín",
+        "alt_name": "Museo Forense de la morgue judicial",
+        "building": "yes",
+        "description": "Su acervo cuenta con piezas anatómicas de interés médico legal, conservadas en cubas de vidrio. Complementan la exposición objetos, fotografías y calcos de yeso.",
+        "email": "morguejudicialdim@sjm.gov.ar",
+        "museum": "local",
+        "museum_type": "national",
+        "name": "Museo Forense",
+        "official_name": "Museo Forense de la Justicia Nacional 'Dr. Juan Bautista Bafico'",
+        "phone": "+54 11 4374-6358",
+        "tourism": "museum",
+        "website": "https://www.csjn.gov.ar/cmfcs/files/museo.htm",
+        "wikidata": "Q63588925"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3973095,
+          -34.6004546
+        ]
+      },
+      "id": "node/5981990519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982028439",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2085",
+        "addr:postcode": "C1033AAV",
+        "addr:street": "Bartolomé Mitre",
+        "alt_name": "Museo del Legislador",
+        "building": "yes",
+        "description": "El museo se despliega en salones, galerías, despachos y pasillos del Palacio del Congreso con obras plásticas, murales, mobiliario, revestimientos arquitectónicos y objetos históricos de los personajes más importantes de la política nacional.",
+        "email": "direccion.daymuseo@hcdn.gob.ar",
+        "level": "1",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico de la Honorable Cámara de Diputados",
+        "phone": "+54 11 4953-2587",
+        "tourism": "museum",
+        "website": "https://www.diputados.gov.ar/secparl/dmuseo/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3958898,
+          -34.6080568
+        ]
+      },
+      "id": "node/5982028439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982044685",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1708",
+        "addr:postcode": "C1089AAH",
+        "addr:street": "Hipólito Yrigoyen",
+        "building": "yes",
+        "description": "El museo relata la historia del Senado de la Nación y de su tarea legislativa, a través de documentación manuscrita, libros, muebles y diferentes objetos de valor histórico patrimonial. También permite contemplar el edificio del Palacio Legislativo.",
+        "email": "emasjoan@senado.gov.ar",
+        "level": "0",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Parlamentario 'Senador Domingo Faustino Sarmiento'",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3906879,
+          -34.610355
+        ]
+      },
+      "id": "node/5982044685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987682281",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2455",
+        "addr:postcode": "1029AAM",
+        "addr:street": "Bartolomé Mitre",
+        "building": "yes",
+        "description": "Predominantemente zoológicas: corales, moluscos, artrópodos, batracios, peces, reptiles, mamíferos, etc.",
+        "email": "informes@observatoriosanjose.com.ar",
+        "museum_type": "private",
+        "name": "Museo de Ciencias Naturales del Colegio San José",
+        "phone": "+54 11 4951-4303",
+        "start_date": "1918",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4009224,
+          -34.6080001
+        ]
+      },
+      "id": "node/5987682281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987887400",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2151",
+        "addr:postcode": "C1416ACS",
+        "addr:street": "Gavilán",
+        "building": "yes",
+        "description": "Debajo de las tribunas del estadio de la Asociación Atlética Argentinos Juniors se encuentra uno de los espacios que representa la identificación de un barrio porteño con la pasión futbolera.",
+        "email": "museo@argentinosjuniors.com.ar",
+        "museum_type": "private",
+        "name": "Museo el templo del fútbol",
+        "opening_hours": "Tu,Th 10:00-16:30; Sa 10:00-13:00",
+        "phone": "+54 11 4586-0620",
+        "tourism": "museum",
+        "website": "https://www.argentinosjuniors.com.ar/el-club/museo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4728041,
+          -34.6056252
+        ]
+      },
+      "id": "node/5987887400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5988013429",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "8635",
+        "addr:postcode": "C1429BNS",
+        "addr:street": "Avenida del Libertador",
+        "email": "museoescuelaraggio@yahoo.com.ar",
+        "museum_type": "private",
+        "name": "Museo archivo tecno educativo Lorenzo Raggio",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "phone": "+54 11 4701-1791",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4661465,
+          -34.5359474
+        ]
+      },
+      "id": "node/5988013429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5990913474",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "470",
+        "addr:postcode": "C1063ACR",
+        "addr:street": "Avenida Paseo Colón",
+        "building": "yes",
+        "description": "Aparatos y accesorios relacionados con la fotografía.",
+        "email": "info@faf-fotografia.com.ar",
+        "museum": "art",
+        "museum_type": "private",
+        "name": "Museo de la Fotografía 'Humberto F. Zappa'",
+        "opening_hours": "Mo-Sa 10:00-17:00 \"call for info\"",
+        "phone": "+54 11 4331-9734",
+        "tourism": "museum",
+        "wikidata": "Q63615052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3689992,
+          -34.6130728
+        ]
+      },
+      "id": "node/5990913474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5991452317",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:postcode": "C1428EGA",
+        "addr:street": "Ciudad Universitaria",
+        "description": "Más de 480 maquetas representan a los maestros del siglo XX.",
+        "email": "museodemaquetas@hotmail.com",
+        "facebook": "https://www.facebook.com/pg/Museo-de-Maquetas-FADU-UBA-733164140031248",
+        "level": "1",
+        "museum": "science",
+        "museum_type": "public",
+        "name": "Museo de Maquetas FADU-UBA",
+        "opening_hours": "Th 10:00-13:00, 19:00-22:00",
+        "phone": "+54 11 4952-7612",
+        "tourism": "museum",
+        "wikidata": "Q63441886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4436625,
+          -34.5411435
+        ]
+      },
+      "id": "node/5991452317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6011595654",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2160",
+        "addr:postcode": "C1428EGA",
+        "addr:street": "Intendente Güiraldes",
+        "building": "yes",
+        "description": "La colección del museo está compuesta por minerales, unas 2000 muestras procedentes de Argentina y del exterior.",
+        "email": "leal@gl.fcen.uba.ar",
+        "name": "Museo de Mineralogía 'Dra. Elmira Inés Mórtola'",
+        "phone": "+54 11 4576.3329",
+        "tourism": "museum",
+        "wikidata": "Q63441994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4421648,
+          -34.5418085
+        ]
+      },
+      "id": "node/6011595654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6049539349",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1893",
+        "addr:postcode": "1406",
+        "addr:street": "Coronel Ramón Lorenzo Falcón",
+        "email": "hola@museobarriodeflores.com.ar",
+        "museum_type": "municipal",
+        "name": "Museo Barrio de Flores",
+        "phone": "+54 11 4631-2910",
+        "tourism": "museum",
+        "website": "https://museobarriodeflores.com.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.455834,
+          -34.6279263
+        ]
+      },
+      "id": "node/6049539349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6131104067",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "554",
+        "addr:postcode": "C1426BOQ",
+        "addr:street": "Avenida Luis María Campos",
+        "description": "Armas, uniformes, medallística, iconografía y otros objetos pertenecientes o relacionados con el regimiento y su creador, el general José de San Martín, del cual se exhibe el sable corvo. Poncho de Lavalle. Documentos y correspondencias.",
+        "email": "museogranaderos@gmail.com",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico del Regimiento Granaderos a Caballo 'General San Martín'",
+        "opening_hours": "Tu,Th 10:00-12:00 Sa[1] 14:00-17:00",
+        "operator": "MINDEF",
+        "phone": "+54 11 4576-5666",
+        "start_date": "1968",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4350299,
+          -34.5720472
+        ]
+      },
+      "id": "node/6131104067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6160235679",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "740",
+        "addr:street": "Marcelo T. de Alvear",
+        "building": "yes",
+        "name": "Museo de Informática",
+        "tourism": "museum",
+        "website": "https://museodeinformatica.org.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3774819,
+          -34.5964433
+        ]
+      },
+      "id": "node/6160235679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415277632",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:postcode": "1428",
+        "addr:province": "1428",
+        "addr:street": "Ciudad Universitaria, pabellón i, 2do. Piso",
+        "description": "Espacio de diseño y producción de modelos interactivos, concretos y virtuales, con investigaciones enmarcadas en proyectos de la secretaría de investigaciones de la Facultad de Arquitectura, Diseño y Urbanismo. En su zona virtual pueden consultarse ideas",
+        "museum": "local",
+        "museum_type": "public",
+        "name": "Museo de matemática Mateuba",
+        "operator": "UBA",
+        "phone": "+54 11 4576-3335",
+        "tourism": "museum",
+        "wikidata": "Q63441984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4396097,
+          -34.5445375
+        ]
+      },
+      "id": "node/6415277632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415303438",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "481",
+        "addr:postcode": "C1425FTE",
+        "addr:street": "Avenida Intendente Bullrich",
+        "description": "Elementos vinculados con las invasiones inglesas y la revolución de mayo.",
+        "museum": "military",
+        "museum_type": "national",
+        "name": "Museo de los Patricios de Buenos Ayres",
+        "phone": "+51 11 4576-5537",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4265713,
+          -34.5763986
+        ]
+      },
+      "id": "node/6415303438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415305571",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1850",
+        "addr:postcode": "C1425AAR",
+        "addr:street": "Avenida del Libertador",
+        "description": "Automóviles del los años 1898, 1902, 1903, 1904, 1911 y 1912, motocicletas, surtidores de aire, agua y combustible, pinturas.",
+        "email": "relinsti@aca.org.ar",
+        "museum": "science",
+        "museum_type": "private",
+        "name": "Museo del Automóvil Club Argentino",
+        "phone": "+54 11 4801-5675",
+        "tourism": "museum",
+        "wikidata": "Q63442073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4001562,
+          -34.5829376
+        ]
+      },
+      "id": "node/6415305571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415310064",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2263",
+        "addr:postcode": "C1425CKB",
+        "addr:street": "Avenida Presidente Figueroa Alcorta",
+        "description": "Preserva y exhibe material concerniente a la historia de la facultad y a la enseñanza del derecho, desde su inauguración como departamento de jurisprudencia en 1821.",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo y Archivo Histórico de la Facultad de Derecho de la Universidad De Buenos Aires",
+        "phone": "+54 11 4809-5638",
+        "tourism": "museum",
+        "wikidata": "Q63442085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3916259,
+          -34.5827036
+        ]
+      },
+      "id": "node/6415310064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415312616",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1904",
+        "addr:postcode": "C1113AAX",
+        "addr:street": "Junín",
+        "building": "yes",
+        "description": "Reúne libros, muebles, óleos, tallas, platería, ornamentos, que forman parte del patrimonio de la iglesia.",
+        "museum_type": "private",
+        "name": "Claustros históricos Basílica del Pilar",
+        "phone": "+5411 4803-6793",
+        "tourism": "museum",
+        "website": "http://www.basilicadelpilar.org.ar/index.php/la-parroquia/la-basilica/claustros",
+        "wikidata": "Q63442119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3920084,
+          -34.5866611
+        ]
+      },
+      "id": "node/6415312616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415316628",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1841",
+        "addr:postcode": "C1119AAA",
+        "addr:street": "Guido",
+        "description": "De su fondo de 2.748 volúmenes, se destaca la sección histórica con ediciones curiosas de los siglos XVI, XVII y XVIII.",
+        "email": "uninotcf@infovia.com",
+        "museum_type": "private",
+        "name": "Museo Notario 'Roberto Mario Arata'",
+        "phone": "+54 11 4804-7743",
+        "tourism": "museum",
+        "wikidata": "Q63442129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3903123,
+          -34.5895768
+        ]
+      },
+      "id": "node/6415316628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415318221",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1223",
+        "addr:postcode": "C1113AAI",
+        "addr:street": "Junín",
+        "description": "Custodia pertenencias del Padre Francisco Coll, Fraile Dominico fundador de la congregación de hermanas dominicas de la anunciata, beatificado en 1979 por el Papa Juan Pablo II. Exhibe documentos, escritos, libros, daguerrotipos, material fílmico...",
+        "museum_type": "private",
+        "name": "Museo 'Padre Cool'",
+        "phone": "+54 11 4821-8146",
+        "tourism": "museum",
+        "website": "http://www.dominicasanunciata.org/noticias/museo-padre-coll/",
+        "wikidata": "Q63442147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3969473,
+          -34.594154
+        ]
+      },
+      "id": "node/6415318221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6415320311",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1212",
+        "addr:postcode": "C1425EKF",
+        "addr:street": "Laprida",
+        "building": "yes",
+        "description": "Obras, inventos, objetos personales, publicaciones, documentos, juegos, títeres, etc., que pertenecieron al artista Oscar Agustín Alejandro Schulz Solari.",
+        "email": "xulsolar@ciudad.com.ar",
+        "museum_type": "private",
+        "name": "Museo Xul Solar",
+        "phone": "+54 11 4824-3302",
+        "start_date": "1993",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4078789,
+          -34.5945212
+        ]
+      },
+      "id": "node/6415320311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6416664478",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1243",
+        "addr:postcode": "C1059ABG",
+        "addr:street": "Avenida Santa Fe",
+        "alt_name": "Museo Casa del Teatro",
+        "description": "Se encuentran objetos personales y de su vida teatral, documentos, archivos fotográficos de ella misma y de los comienzos de la Casa del Teatro, libros y recuerdos de su estadía en Francia.",
+        "email": "info@casadelteatro.org.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Regina Pacini de Alvear",
+        "official_name": "Museo Regina Pacini de Alvear",
+        "opening_hours": "Mo-Sa 10:00-17:00 \"call for info\"",
+        "phone": "+54 11 4811-7678",
+        "tourism": "museum",
+        "website": "http://casadelteatro.org.ar/museo-regina-pacini/",
+        "wikidata": "Q63442246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3850263,
+          -34.5954882
+        ]
+      },
+      "id": "node/6416664478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417033140",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "959",
+        "addr:postcode": "C1113AAC",
+        "addr:street": "Junín",
+        "description": "Muebles, aparatos, instrumental, diapositivas, diplomas, documentación, medallas y cuadros relativos a la historia de la odontología y a la asociación odontológica argentina.",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo de Odontología",
+        "official_name": "Comisión de Historia y Museo de Odontología de la Asociación Odontológica Argentina",
+        "phone": "+54 11 4961-6141",
+        "source": "DNPyM",
+        "tourism": "museum",
+        "wikidata": "Q63442309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3972746,
+          -34.597854
+        ]
+      },
+      "id": "node/6417033140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417035816",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2155",
+        "addr:postcode": "C1121ABG",
+        "addr:street": "Paraguay",
+        "building": "yes",
+        "description": "Valiosas piezas entre las que se destacan 25 cajas de cirugía de origen francés que datan de 1872, pertenecientes al Dr. Martín Lavallol, e instrumental quirúrgico de los doctores Ignacio Pirovano, Cecilia Grierson, Juan B. Justo y Nicolás Repetto. Apara",
+        "internet_access": "no",
+        "museum": "history",
+        "museum_type": "public",
+        "name": "Museo de la Historia de la Cirugía",
+        "official_name": "Museo de la Historia de la Cirugía 'Vicente Aníbal Risolía'",
+        "phone": "+54 11 5950-9500",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q63442344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3983046,
+          -34.5982558
+        ]
+      },
+      "id": "node/6417035816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417047450",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "4662",
+        "addr:postcode": "C1192",
+        "addr:street": "Humahuaca",
+        "building": "yes",
+        "description": "El Museo Kosice es la institución dedicada a preservar y difundir en Argentina y en el mundo la obra del artista plástico de vanguardia Gyula Kosice.",
+        "email": "gyula@kosice.com.ar",
+        "internet_access": "no",
+        "museum": "art",
+        "museum_type": "private",
+        "name": "Museo Kosice",
+        "official_name": "Museo Gyula Kosice",
+        "phone": "+5411 4867 1240",
+        "tourism": "museum",
+        "website": "www.kosice.com.ar",
+        "wikidata": "Q63589229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4307486,
+          -34.6010134
+        ]
+      },
+      "id": "node/6417047450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417104233",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "3247",
+        "addr:postcode": "C1193",
+        "addr:street": "Avenida Corrientes",
+        "building": "yes",
+        "building:levels": "3",
+        "description": "El Museo de los Niños Abasto, es un museo interactivo que recrea los espacios de una ciudad donde los chicos pueden jugar a ser albañil, médico, camarógrafo, capitán, marinero, bancario, cocinero, locutora, periodista, enfermera, actriz, mamá y papá...",
+        "email": "info@museoabasto.org.ar",
+        "level": "2",
+        "museum": "children",
+        "museum_type": "private",
+        "name": "Museo le los Niños Abasto",
+        "opening_hours": "Tu-Su 13:00-20:00; PH 13:00-20:00",
+        "phone": "+54 11 4861-2325",
+        "tourism": "museum",
+        "website": "http://www.museoabasto.org.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4108828,
+          -34.6037931
+        ]
+      },
+      "id": "node/6417104233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417122475",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1420",
+        "addr:postcode": "C1089AAB",
+        "addr:street": "Avenida Hipólito Irigoyen",
+        "building": "yes",
+        "description": "Destinada a exhibir las colecciones de artes aplicadas de los siglos XIX y XX, alberga la exposición permanente \"había una vez...muñecas y juguetes (1870 - 1940)\" colección de Mabel y María Castellano Fotheringham, patrimonio del museo",
+        "museum": "history",
+        "museum_type": "departamental",
+        "name": "Casa Histórica 'Isaac Fernández Blanco'",
+        "official_name": "Museo de Arte Hispanoamericano Isaac Fernández Blanco - Sede Casa Fernández Blanco",
+        "opening_hours": "Sa-Su 11:00-17:00",
+        "phone": "+54 11 4326-3396",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3865096,
+          -34.6100737
+        ]
+      },
+      "id": "node/6417122475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6417248982",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "651",
+        "addr:postcode": "C1067ABB",
+        "addr:street": "Avenida Julio A. Roca",
+        "building": "yes",
+        "description": "El Museo de Minerales – MUMIN - es el espacio de divulgación científica del SEGEMAR (Servicio Geológico Minero Argentino)El Museo de Minerales – MUMIN - es el espacio de divulgación científica del SEGEMAR (Servicio Geológico Minero Argentino)",
+        "email": "mumin@segemar.gov.ar",
+        "museum": "local",
+        "museum_type": "national",
+        "name": "Museo de Minerales",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+54 11 4349-3202",
+        "short_name": "MUMIN",
+        "tourism": "museum",
+        "website": "http://mumin.gob.ar/museo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3756708,
+          -34.6108669
+        ]
+      },
+      "id": "node/6417248982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6424391125",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2739",
+        "addr:postcode": "C1264AAH",
+        "addr:street": "Avenida Caseros",
+        "description": "Obras de artistas argentinos y del resto de los países del mercosur y del mundo. Se destacan sus colecciones de pintura y fotografía, de humor gráfico e historietas. Esta última posee obras de destacados humoristas de más de 150 ciudades del mundo. Compa",
+        "museum": "art",
+        "museum_type": "private",
+        "name": "Museo Itinerante de Arte Contemporáneo del Mercosur",
+        "phone": "+54 11 4941-5478",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4012011,
+          -34.6361684
+        ]
+      },
+      "id": "node/6424391125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6426834502",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "486",
+        "addr:postcode": "C1162ABJ",
+        "addr:street": "Olavarría",
+        "building": "yes",
+        "description": "Museo Memorias de San Juan Evangelista ofrece un recorrido por la historia de la fe religiosa de inmigrantes italianos llegados a La Boca, en la primera Iglesia Salesiana del mundo.",
+        "email": "gralaar@yahoo.com.ar",
+        "internet_access": "no",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Memorias de San Juan Evangelista",
+        "opening_hours": "Sa 14:00-18:00",
+        "phone": "+54 11 4302-2194",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3595035,
+          -34.6366625
+        ]
+      },
+      "id": "node/6426834502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431920279",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "563",
+        "addr:postcode": "C1282AFF",
+        "addr:street": "Av. Vélez Sársfield",
+        "description": "Exhibe especies venenosas de importancia sanitaria de diferentes lugares del mundo, particularmente de Argentina. Además de los preparados del museo, se encuentran cuatro terrarios de exhibición de ofidios venenosos del país. Complementan la muestra, cla",
+        "email": "adolab@anlis.gov.ar",
+        "museum": "local",
+        "museum_type": "public",
+        "name": "Museo de Ciencias Naturales de Especialidad Zoológica Médica",
+        "phone": "+54 11 4301-2888",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3901472,
+          -34.6413014
+        ]
+      },
+      "id": "node/6431920279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431927985",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "2000",
+        "addr:postcode": "C1289AAN",
+        "addr:street": "California",
+        "description": "Tiene por finalidad conservar y reunir los elementos, la historia, los usos y costumbres, que han servido para pactar, concertar, equiparar, convenir o contratar entre los hombres, gobiernos y regiones desde hace miles de años.",
+        "museum": "science",
+        "museum_type": "private",
+        "name": "Museo de la Balanza",
+        "phone": "+54 11 4303-0000",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3771644,
+          -34.6480027
+        ]
+      },
+      "id": "node/6431927985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431935018",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "735",
+        "addr:postcode": "C1179AAM",
+        "addr:street": "Medrano",
+        "description": "Instrumentos musicales, armas, tejidos, adornos, máscaras, etc, de Asia y Africa.",
+        "museum_type": "private",
+        "name": "Museo Etnográfico de las Obras Misionales Pontificias",
+        "phone": "+54 4863-1357",
+        "start_date": "1985",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4205079,
+          -34.6015504
+        ]
+      },
+      "id": "node/6431935018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6431941095",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "541",
+        "addr:postcode": "C1041AAK",
+        "addr:street": "Fragata Sarmiento",
+        "description": "Equipos e instrumentos médico-anestesiológicos. Cirujanos y anesteciólogos que dejaron huella en la medicina. Evolución de los métodos en la lucha en la eliminación del dolor.",
+        "email": "museo@aaarba.org",
+        "museum": "local",
+        "museum_type": "private",
+        "name": "Museo de la anestesia y biblioteca histórica de la AAARBA",
+        "operator": "Asociación de Anestesia, Analgesia y Reanimación de Buenos Aires",
+        "phone": "+54 11 4433-0023",
+        "start_date": "2001",
+        "tourism": "museum",
+        "website": "https://www.aaarba.org/SubSeccion/museo-aaarba_6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4481775,
+          -34.6229132
+        ]
+      },
+      "id": "node/6431941095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6432865538",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1385",
+        "addr:postcode": "C1104ACH",
+        "addr:street": "Av. Antártida Argentina",
+        "description": "Alberga un invaluable patrimonio industrial, cultural e histórico. Se inauguró con el objetivo de preservar y transmitir la historia del organismo, estrechamente entrelazada con el devenir político y económico del país.",
+        "email": "museo@casademoneda.gob.ar",
+        "museum": "history",
+        "museum_type": "public",
+        "name": "Museo de la Casa de Moneda",
+        "official_name": "Museo de S.E. Casa de Moneda",
+        "opening_hours": "Mo-Fr 10:00-16:00; PH off",
+        "operator": "Ministerio de Hacienda",
+        "phone": "+54 11 5776-3545",
+        "start_date": "1927",
+        "tourism": "museum",
+        "website": "https://www.argentina.gob.ar/casademoneda/se-casa-de-moneda/museo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3724098,
+          -34.5839089
+        ]
+      },
+      "id": "node/6432865538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6433365398",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "985",
+        "addr:postcode": "C1116ABC",
+        "addr:street": "Riobamba",
+        "description": "Grabados contemporáneos de artistas argentinos y extranjeros; ediciones bibliográficas con grabados originales.",
+        "level": "4",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Museo Nacional del Grabado",
+        "opening_hours": "Tu-Su 14:00-20:00",
+        "phone": "+54 11 4813-0301",
+        "start_date": "1964",
+        "tourism": "museum",
+        "website": "https://museodelgrabado.cultura.gob.ar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.394528,
+          -34.5975847
+        ]
+      },
+      "id": "node/6433365398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6433376874",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "139",
+        "addr:postcode": "C1064AAC",
+        "addr:street": "Balcarce",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo del antiguo recinto del Congreso Nacional",
+        "phone": "+54 11 4331-5147",
+        "start_date": "1975",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3709005,
+          -34.6094335
+        ]
+      },
+      "id": "node/6433376874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6433381287",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "4906",
+        "addr:postcode": "C1407EGP",
+        "addr:street": "Saráchaga",
+        "description": "Iconografia, armas, numismática, manuscritos correspondientes a la época del prócer Manuel Belgrano. Objetos personales. Mobiliario.",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo General Belgrano",
+        "phone": "+54 11 4671-6464",
+        "start_date": "1984",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4944524,
+          -34.6333536
+        ]
+      },
+      "id": "node/6433381287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6436916774",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1261",
+        "addr:postcode": "C1160ABM",
+        "addr:street": "Dr. Del Valle Iberlucea",
+        "description": "Dioramas tamaño natural de escenas desde el primer asentamiento de la ciudad de Buenos Aires hasta nuestros días, 2da. Fundación de Buenos Aires, malón, doma, candombe, duelo, cuartedor, apuesta, tango orillero; figuras en cera de personajes famosos: Ben",
+        "email": "info@museodecera.com.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Histórico de Cera",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa, Su 11:00-19:00; PH 11:00-19:00",
+        "phone": "+54 11 4301-1497",
+        "source": "propia",
+        "tourism": "museum",
+        "website": "https://www.museodecera.com.ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3625843,
+          -34.6383941
+        ]
+      },
+      "id": "node/6436916774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6436966180",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "950",
+        "addr:postcode": "C1114AAD",
+        "addr:street": "Presidente José Evaristo Uriburu",
+        "description": "Preparados microscópicos de enfermedades en su estado natural. Histoteca, diapoteca, biblioteca histológica de medicina y patología. Instrumental utilizado en la práctica de la patología.",
+        "museum": "local",
+        "museum_type": "public",
+        "name": "Museo de Patología",
+        "official_name": "Museo de Patología de la Universidad de Buenos Aires",
+        "operator": "UBA",
+        "source": "propia",
+        "start_date": "1998",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.399073,
+          -34.597556
+        ]
+      },
+      "id": "node/6436966180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437016365",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2155",
+        "addr:postcode": "C1121ABG",
+        "addr:street": "Paraguay",
+        "description": "Su acervo incluye relevantes piezas relacionadas con la investigación y docencia biomédicas, en particular la Fisiología, incluyendo equipos utilizados por el Premio Nóbel Prof. Dr. Bernardo A. Houssay.",
+        "email": "humanidades@fmed.uba.ar",
+        "level": "1",
+        "name": "Museo Houssay de Historia de la Ciencia y la Tecnología",
+        "operator": "UBA",
+        "phone": "+54 11 5950-9622",
+        "start_date": "1996",
+        "tourism": "museum",
+        "website": "http://www.uba.ar/contenido/173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3982382,
+          -34.5982757
+        ]
+      },
+      "id": "node/6437016365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437028761",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1162",
+        "addr:postcode": "C1164ACB",
+        "addr:street": "Irala",
+        "description": "El Museo se encuentra en una casa-conventillo anterior a 1885. Se puede visitar la Galería del Recuerdo, con testimonios de Benito Quinquela Martín y Juan de Dios Filiberto, con fotos y objetos que recuerdan la inmigración en el barrio de La Boca.",
+        "museum": "art",
+        "museum_type": "private",
+        "name": "Museo Casa Taller 'Celia Chevalier'",
+        "phone": "+54 11 4302-2337",
+        "start_date": "2002",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3660483,
+          -34.6392944
+        ]
+      },
+      "id": "node/6437028761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437076448",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "6935",
+        "addr:postcode": "C1429BMC",
+        "addr:street": "Avda. del Libertador",
+        "description": "Materiales relacionados con el tiro deportivo y la historia del Club Tiro Federal Argentino, trofeos, copas, fotos, banderas, cuadros, objetos varios, libros, etc.",
+        "museum": "science",
+        "museum_type": "private",
+        "name": "Museo del Tiro Federal Argentino",
+        "phone": "+54 11 4782-4000",
+        "start_date": "2004",
+        "tourism": "museum",
+        "website": "http://www.tfaba.com.ar/institucional/plano/museo.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4545612,
+          -34.5472075
+        ]
+      },
+      "id": "node/6437076448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437108272",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "870",
+        "addr:postcode": "C1218AAR",
+        "addr:street": "Avenida Boedo",
+        "description": "Documentos sobre inmegración años 1856-1900. Creación del monte de piedad 1878. Buenos aires colonial, artes, oficios. La primera casa matriz y el banco municipal. El bar biarritz, el grupo literario boedo...",
+        "level": "2",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Monte de Piedad",
+        "phone": "+54 11 4931-8204",
+        "start_date": "2003",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4160876,
+          -34.6236469
+        ]
+      },
+      "id": "node/6437108272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437125104",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1318",
+        "addr:street": "Av. Paseo Colón",
+        "description": "Mobiliario escolar, materiales didácticos, útiles escolares, libros, cuadernos, documentos oficiales, boletines de alumnos, láminas, vestimentas, fotografías que documentan la historia escolar del siglo XX.",
+        "email": "museodelasescuelas@bue.edu.ar",
+        "museum": "children",
+        "museum_type": "public",
+        "name": "Museo de las Escuelas",
+        "phone": "+54 11 4129-1000",
+        "postal_code": "C1063ADN",
+        "tourism": "museum",
+        "website": "http://ppct.caicyt.gov.ar/index.php/anuario/article/view/3115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3679165,
+          -34.6231712
+        ]
+      },
+      "id": "node/6437125104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437146001",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "353",
+        "addr:postcode": "C1004AAG",
+        "addr:street": "San Martín",
+        "description": "La historia de la Institución es recreada con maniquíes con uniformes de época y actuales, galería de fotografías, desarrollo de las cominicaciones y sistema dactiloscópico, ideado por Juan Vucetich.",
+        "level": "7",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Policial",
+        "official_name": "Museo de la Policia Federal Argentina",
+        "opening_hours": "Mo-Fr 14:00-18:00",
+        "operator": "PFA",
+        "phone": "+54 11 4394-6857",
+        "start_date": "1899",
+        "tourism": "museum",
+        "website": "http://cpf.org.ar/museo-policial/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3736685,
+          -34.6038504
+        ]
+      },
+      "id": "node/6437146001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437152007",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "956",
+        "addr:postcode": "C1113AAD",
+        "addr:street": "Junín",
+        "description": "Herbarios, maderas y drogas de origen vegetal. Colecciones iconográficas, reproducciones modeladas en arcilla de flores, frutos, etc. Archivo Bonpland.",
+        "museum": "local",
+        "museum_type": "national",
+        "name": "Museo de Farmacobotánica",
+        "official_name": "Museo de Farmacobotánica Juan A. Domínguez",
+        "phone": "+54 11 4964-8235",
+        "start_date": "1900",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3976233,
+          -34.5978341
+        ]
+      },
+      "id": "node/6437152007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438743519",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "650",
+        "addr:postcode": "C1063ACT",
+        "addr:street": "Avenida Paseo Colón",
+        "description": "Réplicas de inventos de Leonardo Da Vinci; engranajes y mecanismos para transmisión y transformación de movimientos; motores y tableros; máquinas, herramientas y elementos de fundición de principios de siglo. Piezas de cerámica, colecciones de cuchillería",
+        "email": "museo@aeok.org.ar",
+        "museum": "history",
+        "museum_type": "departamental",
+        "name": "Museo Tecnológico 'Ing. Eduardo Latzina'",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+54 11 4331-6444",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3686876,
+          -34.6150119
+        ]
+      },
+      "id": "node/6438743519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438830285",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2099",
+        "addr:postcode": "C1246AAQ",
+        "addr:street": "Catamarca",
+        "description": "Cartografía y dioramas geográficos, tablas grabadas, enmarcados artísticos de Rosario Vera Peñaloza. Objetos folklóricos.",
+        "museum": "local",
+        "museum_type": "departamental",
+        "name": "Museo Geográfico 'Dr. Juan B. Terán' y Museo de Ciencias Naturales 'Ángel Gallardo'",
+        "phone": "+54 11 4941-3777",
+        "start_date": "1929",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4010512,
+          -34.6349166
+        ]
+      },
+      "id": "node/6438830285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438879617",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1199",
+        "addr:postcode": "C1055AAB",
+        "addr:street": "Avda. Córdoba",
+        "description": "Exhibición permanente de maniquíes con trajes usados por actores argentinos como fotografías, cuadros, esculturas, documentos, maquetas, afiches, programas de mano, objetos personales de los hacedores del quehacer teatral y originales de distintas épocas",
+        "museum": "art",
+        "museum_type": "national",
+        "name": "Instituto Nacional de Estudios De Teatro",
+        "phone": "+54 11 48167212",
+        "start_date": "1938",
+        "tourism": "museum",
+        "website": "https://www.cultura.gob.ar/institucional/organismos/museos/instituto-nacional-de-estudios-de-teatro-inet/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3838207,
+          -34.5989756
+        ]
+      },
+      "id": "node/6438879617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6438930117",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1547",
+        "addr:postcode": "C1048AAK",
+        "addr:street": "Lavalle",
+        "description": "Privada",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Sadaic 'Vicente López y Planes'",
+        "opening_hours": "Mo-Fr 10:00-15:00",
+        "phone": "+54 11 4379-8600",
+        "start_date": "1962",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3886138,
+          -34.6028503
+        ]
+      },
+      "id": "node/6438930117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439080334",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2370",
+        "addr:postcode": "C1406GKB",
+        "addr:street": "Yerbal",
+        "description": "Oleos, esculturas, dibujos, acuarelas, aguafuertes, cerámicas de temática figurativa de autores argentinos: Soldi, Perlotti, Quinquela Martín, Policastro, M. Lydis, etc. Obras donadas por los artistas.",
+        "email": "esc01de12@educ.ar",
+        "museum": "art",
+        "museum_type": "departamental",
+        "name": "Escuela Museo de Bellas Artes 'General Urquiza'",
+        "phone": "+54 11 4612-0566",
+        "start_date": "1963",
+        "tourism": "museum",
+        "website": "https://www.buenosaires.gob.ar/areas/educacion/escuelas/escuelas/primaria/de12esc01/default.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4625006,
+          -34.6275756
+        ]
+      },
+      "id": "node/6439080334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439099721",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "326",
+        "addr:postcode": "C1036AAF",
+        "addr:street": "Bartolomé Mitre",
+        "description": "Historia bancaria e institucional. Monetario y colección de papel moneda argentinos (nacionales, provinciales y privados), emisiones coloniales de Potosí. Medallística, mobiliario, iconografía.(1565-1990)",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico y Numismático del Banco de la Nación Argentina",
+        "opening_hours": "Mo-Fr 10:00-15:00",
+        "phone": "+54 11 4347-6277",
+        "start_date": "1969",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3711767,
+          -34.6067226
+        ]
+      },
+      "id": "node/6439099721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439722697",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "370",
+        "addr:postcode": "C1086AAD",
+        "addr:street": "Hipólito Yrigoyen",
+        "description": "Objetos relacionados con la historia y el presente en materia impositiva nacional y en algunos aspectos, internacional: documentos, máquinas impresoras, mobiliario, medallística, falsificaciones.",
+        "email": "museo@afip.gov.ar",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico de la AFIP",
+        "opening_hours": "Tu-Th 10:00-14:00",
+        "phone": "+54 11 4347-2396",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3716407,
+          -34.6090417
+        ]
+      },
+      "id": "node/6439722697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439743718",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2142",
+        "addr:postcode": "C1122AAH",
+        "addr:street": "Marcelo T. de Alvear",
+        "description": "Objetos de odontología en general: muebles y gabinetes dentales, aparatos, instrumental, equipos, piezas anatómicas, manuscritos, documentos, diplomas, principalmente del siglo pasado y principios del actual.",
+        "email": "postmast@legal.odon.uba.ar",
+        "museum": "local",
+        "museum_type": "national",
+        "name": "Museo de la Facultad de Odontología",
+        "official_name": "Museo y centro de estudios Históricos de la Facultad de Odontología de Buenos Aires \"Prof. Dr. Orestes Walter Siutti\"",
+        "opening_hours": "Tu,Fr 09:00-12:00",
+        "phone": "+54 11 4964-1271",
+        "start_date": "1980",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.398212,
+          -34.5973826
+        ]
+      },
+      "id": "node/6439743718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439749320",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1542",
+        "addr:postcode": "C1024AAO",
+        "addr:street": "Avenida Callao",
+        "description": "Documentos y actas notariales en las que ha quedado documentada la historia y evolución del instrumento notarial; fotografías, medallística, premios, etc. Testimonios de venta de esclavos, y documentos de la época de la independencia.",
+        "email": "museonotarial@colegio-escribanos.org.ar",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Notarial Argentino",
+        "opening_hours": "Mo-Sa 10:00-17:00 \"call for info\"",
+        "phone": "+54 11 4809-7000",
+        "tourism": "museum",
+        "website": "http://www.museonotarial.org.ar:8080/museo/home.do"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3916325,
+          -34.5912478
+        ]
+      },
+      "id": "node/6439749320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439751574",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1371",
+        "addr:postcode": "C1437FHG",
+        "addr:street": "Tabaré",
+        "description": "Historia del barrio de Pompeya y su relación con el poeta Homero Manzi. Colección de fileteados de Leon Untroib y otros. Colecciones de arte relacionadas con el barrio y objetos antiguos.",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Manoblanca",
+        "phone": "+54 11 4918-9448",
+        "start_date": "1983",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4237205,
+          -34.6510259
+        ]
+      },
+      "id": "node/6439751574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439756188",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "362",
+        "addr:postcode": "C1041AAH",
+        "addr:street": "Sarmiento",
+        "description": "Documentos del banco desde 1822 hasta 1955. Numismática, cuños, planchas, clisés, muestras, medallística, máquinas impresoras, mobiliario y objetos relacionados con la historia de la institución.",
+        "email": "bpmuseo@bapro.com.ar",
+        "museum": "history",
+        "museum_type": "departamental",
+        "name": "Archivo y Museo del Banco de la Provincia de Buenos Aires",
+        "official_name": "Archivo y Museo Históricos del Banco de la Provincia de Buenos Aires \"Dr. Arturo Jauretche\"",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "phone": "+54 11 4331-1775",
+        "start_date": "1984",
+        "tourism": "museum",
+        "website": "www.bapro.com.ar/museo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3720766,
+          -34.6042633
+        ]
+      },
+      "id": "node/6439756188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439758501",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "788",
+        "addr:postcode": "C1104AMT",
+        "addr:street": "Avenida Presidente Ramón S. Castillo",
+        "description": "Efectos utilizados por gendarmería desde su creación, entre ellos: uniformes, armas, medios de transportes, comunicaciones, etc. Colección de armas clásicas y de uniformes de otras fuerzas extranjeras similares",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico de la Gendarmería Nacional",
+        "opening_hours": "Mo-Fr 10:00-13:00",
+        "phone": "+54 11 4310-2642",
+        "start_date": "1988",
+        "tourism": "museum",
+        "website": "https://prensagendarmeria.gob.ar/museo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3749989,
+          -34.5809929
+        ]
+      },
+      "id": "node/6439758501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439760480",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "1930",
+        "addr:postcode": "C1113AAX",
+        "addr:street": "Junín",
+        "description": "Aparatos y equipos para la demostración de fenómenos físicos y químicos, así como la comprobación práctica de conceptos matemáticos, con la participación activa de los niños.",
+        "email": "info@mpc.org.ar",
+        "level": "1",
+        "museum": "children",
+        "museum_type": "private",
+        "name": "Museo Participativo de Ciencias",
+        "phone": "+54 11 4806-3456",
+        "start_date": "1990",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3918485,
+          -34.5863524
+        ]
+      },
+      "id": "node/6439760480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439763537",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "2214",
+        "addr:postcode": "C1127AAR",
+        "addr:street": "Avenida Las Heras",
+        "description": "Colecciones que muestran los distintos aspectos de la ingeniería, incluyendo las ciencias básicas. Elementos de agrimensura y geodesia, ingeniería ferroviaria e hidráulica, física, matemática, computación, etc.",
+        "email": "museo@fi.uba.ar",
+        "museum": "local",
+        "museum_type": "national",
+        "name": "Museo de Ciencia y Técnica",
+        "phone": "+54 11 525-0344",
+        "start_date": "1992",
+        "tourism": "museum",
+        "website": "http://www.fi.uba.ar/es/node/170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3962929,
+          -34.5885362
+        ]
+      },
+      "id": "node/6439763537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439769968",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "763",
+        "addr:postcode": "C1027AAO",
+        "addr:street": "Presidente José Evaristo Uriburu",
+        "email": "museo@econ.uba.ar",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo de la Deuda Externa",
+        "phone": "+54 11 4370-6105",
+        "start_date": "2007",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3984923,
+          -34.6003058
+        ]
+      },
+      "id": "node/6439769968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439772343",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "1398",
+        "addr:postcode": "C1104AJN",
+        "addr:street": "Av. Dr. José María Ramos Mejía",
+        "description": "El edificio es patrimonio nacional (estación Retiro). Las colecciones están relacionadas con la historia del instituto superior de radiodifusión. Pionero en la formación de locutores, productores de radio y elevisión, operadores técnicos en todas sus mod",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Iser",
+        "phone": "+54 11 4313-3427",
+        "start_date": "2002",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3730355,
+          -34.5892616
+        ]
+      },
+      "id": "node/6439772343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6439773115",
+        "addr:city": "Ciudad Autonoma de Buenos Aires",
+        "addr:housenumber": "371",
+        "addr:postcode": "C1406AJC",
+        "addr:street": "Avda. Nazca",
+        "description": "Objetos históricos referidos a los vecinos del barrio de Flores, a su fundador y a las primeras familias que habitaron el lugar. Llaves, fotografías, documentación, uniformes, escritos de un expedicionario al desierto, objetos de arte, juguetes, etc.",
+        "museum": "history",
+        "museum_type": "national",
+        "name": "Museo Histórico Vecinal de Flores",
+        "official_name": "Museo Histórico Vecinal de Flores \"Blanca Angélica Gandini\"",
+        "phone": "+54 11 4611-2607",
+        "start_date": "2004",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4708221,
+          -34.6277555
+        ]
+      },
+      "id": "node/6439773115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6444261165",
+        "addr:city": "Ciudad Autónoma de Buenos Aires",
+        "addr:housenumber": "380",
+        "addr:postcode": "C1087AAB",
+        "addr:street": "Adolfo Alsina",
+        "description": "Contiene piezas de alta calidad artística y de gran valor histórico que documentan el arte y la cultura Franciscana a través de los siglos.",
+        "email": "museofranciscano@argentina.com",
+        "museum": "history",
+        "museum_type": "private",
+        "name": "Museo Franciscano",
+        "official_name": "Museo Franciscano 'Monseñor Fray José María Bottaro'",
+        "opening_hours": "We-Su 10:00-16:00",
+        "phone": "+54 11 4331-0625",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3717266,
+          -34.6102062
+        ]
+      },
+      "id": "node/6444261165"
+    }
+  ]
+}

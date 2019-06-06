@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/leaflet.css">
+  <link rel="stylesheet" href="css/MarkerCluster.css">
+  <link rel="stylesheet" href="css/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="./css/styles.css">
+  <title>Mapa de Museos de Buenos Aires</title>
+</head>
+<body>
+  <div class="containerMap">
+    <!-- Logo superior -->
+    <div class="containerLogo">
+      <a href="https://mapas.museosabiertos.org/" rel="noreferrer">
+        <img src="./images/logomuseosabiertos.png" alt="Logo" />
+        </a>
+        <p>Museos de la Ciudad Autónoma de Buenos Aires</p>
+    </div>
+    <!-- Popup personalizado-->
+    <div id="containerMyPopup" class="containerMyPopup">
+      <div id="myPopup" class="myPopup">
+      </div>
+    </div>
+    </div>
+    <!-- Cierre myPopup-->
+    <div id="closeContainer" class="closeContainer">
+      <img class="closeImg" src="./images/cancel.svg" alt="cerrar" >
+    </div>
+    <!-- Contenedor del Mapa -->
+    <div class="mapid" id="mapid">
+      <!-- Loader personalizado-->
+      <div id="myLoaderContainer" class="myLoaderContainer">
+        <div id="myLoader" class="myLoader"></div>
+      </div>
+    </div>
+  </div>
+  <!--JS-->
+  <script src="./js/leaflet.js"></script>
+  <script src="./js/leaflet.markercluster.js"></script>
+  <script src="./js/scripts.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,209 @@
+body {
+  overflow: hidden;
+}
+
+/**** MAPA ****/
+.mapid {
+  width: 100vw;
+  height: 100vh;
+}
+.leaflet-popup { display: none; } /* Si desea mostrar el popup por defecto de leaflet comentar esta clase y la clase .myPopup*/
+
+/**** POPUP PERSONALIZADO ****/
+.containerMyPopup { /* Si desea mostrar el popup por defecto de leaflet comentar esta clase y la clase .leaflet-popup*/
+  position: absolute;
+  right: -110%;
+  transition: right .5s;
+  height: 100%;
+  width: 100%;
+  max-width: 400px;
+  background-color: #fff; /*Borrar*/
+  overflow: auto;
+  cursor: text;
+  box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.75);
+  z-index: 2000;
+}
+.myPopup {
+  display: flex;
+  padding: 16px;
+  flex-wrap: wrap;
+}
+.myPopupVisibility { right: 0; }
+.tagContainer {
+  display: flex;
+  padding: 0 16px;
+  text-transform: uppercase;
+}
+.tagKey {
+  font-weight: normal;
+  display: initial;
+}
+.tagTitle {
+  font-size: 1.2rem;
+  font-style: normal;
+  width: 100%;
+  color: #333;
+  font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+}
+.tagDescription {
+/*  font-style: italic; */
+  color: #333;
+  font-size: 15px;
+  text-transform: none;
+  margin: 8px 0;
+  width: 100%;
+  font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+}
+.tagDescription.museo1 {
+  margin: 0px 0px 0px 10px;
+  font-style: italic;
+}
+.tagDescription.museo2 {
+  margin: 0px 0px 20px 10px;
+  font-style: italic;
+}
+.tagDescription.web {
+  margin: 10px 0px 0px 0px;
+}
+.tagDescription.mail {
+  margin: 0px 0px 20px 0px;
+}
+.tagDescription.wd {
+  margin: 10px 0px 0px 0px;
+}
+.tagDescription.wp {
+  margin: 0px 0px 20px 0px;
+}
+.tagDescription.ver {
+  margin: 10px 0px 0px 0px;
+  font-style: italic;
+  font-size: 10px;
+}
+.tagDescription.up {
+  margin: 0px 0px 20px 0px;
+  font-style: italic;
+  font-size: 10px;
+}
+.tagImage {
+  width: 100%;
+  max-width: 364px;
+  height: auto;
+  max-height: 320px;
+}
+.tagStreet:first-child { padding-left: 16px; }
+.tagStreet {
+  display: inline-block;
+  color: #333;
+  font-size: 15px;
+  font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+}
+.tagStreet.cp {
+  width: 100%;
+}
+.urlOsm {
+  padding: 1rem;
+  background-color: rgba(0,0,0, .2);
+  display: flex;
+  justify-content: center;
+  color: #333;
+  max-width: 250px;
+  margin: 2rem auto;
+  font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+}
+.urlOsm:hover {
+  background-color: rgba(0,0,0, .1)
+}
+/**** CIERRE DEL POPUP PERSONALIZADO ****/
+.closeContainer {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  position: absolute;
+  right: -100%;
+  transition: right .5s;
+  z-index: 4000;
+}
+.closeImg {
+  width: 20px;
+  height: 20px;
+  margin: 8px 24px;
+  cursor: pointer;
+  opacity: .5;
+  transition: all .3s;
+}
+.closeImg:hover {
+  opacity: 1;
+}
+
+/**** LOADER ****/
+.myLoaderContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255,255,255,.5);
+  position: absolute;
+  top: 0;
+  z-index: 3000;
+
+}
+.myLoader {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  border: 3px solid rgba(0,0,0,.6);
+  border-radius: 50%;
+  border-top-color: rgba(0,0,0,.3);
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+
+/*** LOGO SUPERIOR EN ESCRITORIOS  ****/
+.containerLogo {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, .9);
+  width: 100vw;
+  z-index: 900;
+}
+.containerLogo p{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, .9);
+  width: 100vw;
+  z-index: 900;
+  padding:10px 0px 0px 0px;
+  height:30px;
+  top:62px;
+  font-family: 'Lato', Helvetica Neue, Arial, Sans-serif;
+  color: rgba(150,216,104,0.95);
+  border-bottom: 1px solid rgba(243,77,77,0.47) ;
+}
+
+/**** ESTILOS MÓVILES ****/
+@media (max-width: 800px) {
+  .closeImg {
+    width: 20px;
+    height: 20px;
+  }
+}
+/**** ESTILOS MÓVILES ****/
+@media (max-width: 600px) {
+  .containerMyPopup {
+    width: 100vw;
+    max-width: 600px;
+    }
+  .tagImage {
+    max-width: 304px;
+    }
+}
