@@ -1,4 +1,4 @@
-# Leaflet-Museos-Abiertos-OSM
+# Leaflet Museos Abiertos OSM
 
 Este mapa Leflet fué creado para mostrar los elementos patrimonales de Argentina.
 
