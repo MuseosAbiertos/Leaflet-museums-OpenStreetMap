@@ -11,13 +11,13 @@ var mymap = L.map('mapid', {
 
 // llamada a la API de Openstreetmap
 // https://wiki.openstreetmap.org/wiki/Tile_servers
-var apiOpenstrertmap = {
+var apiOpenstreetmap = {
   //    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
   //    url:'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
   	url:'https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png',
     options: {attribution:'<a href="https://www.museosabiertos.org">Museos Abiertos</a> bajo <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> & <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}
   }
-var renderMap = L.tileLayer(apiOpenstrertmap.url,apiOpenstrertmap.options);
+var renderMap = L.tileLayer(apiOpenstreetmap.url,apiOpenstreetmap.options);
 renderMap.addTo(mymap);
 
 // Añade la información al popUp
