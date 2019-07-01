@@ -15,7 +15,7 @@ reemplazar el archivo [/data/export.geoson] con uno actualizado, con ayuda de es
 nwr[tourism=museum](area.ciudad);
 out center; >;
 </code>
-<br/>
+<br/><br/><br/>
 
 Link a al consulta armada: https://overpass-turbo.eu/s/Kn5:
 
