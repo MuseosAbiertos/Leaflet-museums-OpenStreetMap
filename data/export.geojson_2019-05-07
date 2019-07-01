@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2019-07-01T00:50:02Z",
+  "timestamp": "2019-06-07T18:22:02Z",
   "features": [
     {
       "type": "Feature",
@@ -86,15 +86,13 @@
         "email": "museo@bcra.gov.ar",
         "museum": "history",
         "museum_type": "national",
-        "name": "Museo del Banco Central",
+        "name": "Museo Histórico y Numismático del Banco Central",
         "official_name": "Museo Histórico y Numismático del Banco Central de la República Argentina \"Dr. José Evaristo Uriburu\"",
         "opening_hours": "Mo-Fr 10:00-13:00",
         "phone": "+54 1143483882",
         "start_date": "1910",
         "tourism": "museum",
         "type": "multipolygon",
-        "wikidata": "Q64658366",
-        "wikimedia_commons": "File:Museo del Banco Central.jpg",
         "@geometry": "center"
       },
       "geometry": {
@@ -256,34 +254,6 @@
         ]
       },
       "id": "way/54041468"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/98897634",
-        "addr:city": "Ciudad Autonoma de Buenos Aires",
-        "addr:housenumber": "985",
-        "addr:street": "Riobamba",
-        "amenity": "arts_centre",
-        "building": "yes",
-        "museum": "history",
-        "museum_type": "national",
-        "name": "Casa Nacional del Bicentenario",
-        "phone": "+54 11 4813 0301",
-        "short_name": "Casa del Bicentenario",
-        "tourism": "museum",
-        "website": "https://casadelbicentenario.cultura.gob.ar/",
-        "wikidata": "Q5047856",
-        "@geometry": "center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.3944597,
-          -34.5976122
-        ]
-      },
-      "id": "way/98897634"
     },
     {
       "type": "Feature",
@@ -830,19 +800,15 @@
         "@id": "way/261439793",
         "addr:city": "Ciudad Autónoma de Buenos Aires",
         "addr:housenumber": "2555",
-        "addr:postcode": "C1425EID",
+        "addr:postcode": "1425",
         "addr:street": "Avenida General Las Heras",
         "building": "yes",
-        "description": "El Museo del libro y de la lengua, que abrió sus puertas en 2011, está pensado como un recorrido por la cultura nacional, por la experiencia de nuestra condición de hablantes y lectores.",
         "name": "Museo del Libro y de la Lengua",
         "opening_hours": "Tu-Su 14:00-19:00",
-        "operator": "Biblioteca Nacional",
         "phone": "+54 11 4808-0090",
-        "start_date": "2011",
         "tourism": "museum",
         "website": "https://www.bn.gov.ar/biblioteca/museo",
         "wikidata": "Q20639610",
-        "wikimedia_commons": "Museo del Libro y la Lengua 40.JPG",
         "wikipedia": "es:Museo del Libro y de la Lengua",
         "@geometry": "center"
       },
@@ -865,13 +831,9 @@
         "addr:street": "Posadas",
         "alt_name": "Palacio Nacional de las Artes",
         "building": "yes",
-        "building:levels": "2",
         "description": "El patrimonio artístico está conformado por los grandes premios y primeros premios adquisición del salón nacional de artes visuales.",
         "email": "info@palaisdeglace.gob.ar",
         "facebook": "https://www.facebook.com/PalacioNacionaldelasArtes/",
-        "fee": "yes",
-        "internet_access": "no",
-        "level": "0",
         "museum": "art",
         "museum_type": "national",
         "name": "Palais de Glace",
@@ -884,7 +846,6 @@
         "website": "https://www.palaisdeglace.gob.ar/",
         "wheelchair": "no",
         "wikidata": "Q1571142",
-        "wikimedia_commons": "File:WLM2013_SalasNacionalesExposicion_(1).JPG",
         "wikipedia": "es:Palais de Glace",
         "@geometry": "center"
       },
@@ -943,13 +904,10 @@
         "description": "Por el momento tenemos objetos prestados de otras instituciones, contamos con una colección pequeña y en formación y que esperamos que en breve se amplíe.",
         "museum_type": "national",
         "name": "Museo Malvinas e Islas del Atlántico Sur",
-        "opening_hours": "Th-Fr 09:00-17:00 Sa-Su 11:00-19:00",
         "operator": "Dirección Nacional de Museos",
-        "operator:type": "public/government",
-        "phone": "+54 11 5280-0750",
+        "phone": "+54 11 4701-7083",
         "postal_code": "C1429BNB",
         "tourism": "museum",
-        "website": "https://museomalvinas.cultura.gob.ar/",
         "wikidata": "Q17197967",
         "wikimedia_commons": "File:Museo Malvinas e Islas del Atlántico Sur 2.jpg",
         "wikipedia": "es:Museo Malvinas e Islas del Atlántico Sur",
@@ -983,7 +941,6 @@
         "tourism": "museum",
         "website": "https://museoyrurtia.cultura.gob.ar/",
         "wikidata": "Q18378393",
-        "wikimedia_commons": "File:CasaYrurtia012.jpg",
         "wikipedia": "en:Museo Casa de Rogelio Yrurtia",
         "@geometry": "center"
       },
@@ -1001,9 +958,9 @@
       "properties": {
         "@id": "way/415174276",
         "addr:city": "Ciudad Autónoma de Buenos Aires",
-        "addr:housenumber": "2079",
-        "addr:postcode": "C1428AEE",
-        "addr:street": "Cuba",
+        "addr:housenumber": "2180",
+        "addr:postcode": "C1428DNJ",
+        "addr:street": "Avenida Juramento",
         "contact:phone": "+54 11 4783-7555",
         "contact:website": "https://museosarmiento.cultura.gob.ar/",
         "description": "Mobiliario, objetos y documentación pertenecientes a Domingo Faustino Sarmiento, a Nicolás Avellaneda y a los congresales de 1880. Obras de arte de Augusto y Eugenia Belín Sarmiento. Medallas conmemorativas, libros. Biblioteca y archivo.",
@@ -1011,11 +968,9 @@
         "museum": "history",
         "museum_type": "national",
         "name": "Museo Histórico Sarmiento",
-        "opening_hours": "Mo-Fr 13:00-18:00 Sa-Su 11:00-19:00",
-        "operator": "DNM",
+        "opening_hours": "Mo-Fr 13:00-18:00 Sa-Su 15:00-18:30",
         "start_date": "1942",
         "tourism": "museum",
-        "website": "https://museosarmiento.cultura.gob.ar/",
         "wikidata": "Q576857",
         "wikimedia_commons": "File:Cabildo de bs as.jpg",
         "wikipedia": "es:Cabildo_de_Buenos_Aires",
@@ -1169,14 +1124,14 @@
         "level": "1",
         "museum": "art",
         "museum_type": "national",
-        "name": "Museo Nacional de Arte Decorativo",
+        "name": "Museo de Arte Decorativo",
         "opening_hours": "Tu-Su 12:30-19:00",
         "operator": "Dirección Nacional de Museos",
         "phone": "+54 11 4801-8248",
         "tourism": "museum",
         "website": "https://museoartedecorativo.cultura.gob.ar",
         "wheelchair": "no",
-        "wikidata": "Q1136338",
+        "wikidata": "Q50358716",
         "wikipedia": "es:Museo Nacional de Arte Oriental",
         "@geometry": "center"
       },
@@ -1267,32 +1222,20 @@
         "addr:housenumber": "2265",
         "addr:postcode": "1408",
         "addr:street": "Irigoyen",
-        "description": "Museo de autos clásicos y de carreras",
-        "email": "info@museodelautomovil.com",
-        "fee": "yes",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Museo_del_Automovil.jpg",
-        "internet_access": "no",
-        "level": "0",
         "museum": "transport",
         "museum_type": "private",
         "name": "Museo del Automóvil",
-        "official_name": "Fundación Museo del Automóvil",
-        "opening_hours": "PH,Sa-Su 14:00-19:00",
-        "operator": "Fundacion Museo del Automovil",
+        "opening_hours": "Sa-Su, PH 14:00-19:00",
         "phone": "+54 11 4644-0828",
-        "start_date": "1999",
         "tourism": "museum",
         "website": "http://www.museodelautomovil.com",
-        "wheelchair": "limited",
-        "wikidata": "Q64461426",
-        "wikimedia_commons": "File:Museo_del_Automovil.jpg",
         "@geometry": "center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.5259816,
-          -34.6206375
+          -58.5259821,
+          -34.6206373
         ]
       },
       "id": "way/695676755"
@@ -1446,8 +1389,7 @@
         "operator": "Dirección Nacional de Museos",
         "phone": "+54 11 4803-2798",
         "start_date": "1962",
-        "tourism": "museum",
-        "wikidata": "Q53845031"
+        "tourism": "museum"
       },
       "geometry": {
         "type": "Point",
@@ -1503,13 +1445,9 @@
         "opening_hours": "Th-Sa 11:00-19:0",
         "operator": "DNPyM",
         "phone": "+54 11 4824-4039",
-        "source": "propios",
         "start_date": "1962",
         "tourism": "museum",
-        "website": "https://museorojas.cultura.gob.ar/",
-        "wikidata": "Q21114973",
-        "wikimedia_commons": "File:ID_288_Casa_de_Ricardo_Rojas_0717.jpg",
-        "wikipedia": "es:Casa de Ricardo Rojas"
+        "website": "https://museorojas.cultura.gob.ar/"
       },
       "geometry": {
         "type": "Point",
@@ -1699,8 +1637,7 @@
         "phone": "+54 11 4123 0832",
         "start_date": "1970",
         "tourism": "museum",
-        "website": "http://museojudio.org.ar/",
-        "wikidata": "Q64764388"
+        "website": "http://museojudio.org.ar/"
       },
       "geometry": {
         "type": "Point",
@@ -1722,7 +1659,6 @@
         "contact:website": "http://museodelhombre.cultura.gob.ar/",
         "description": "Arqueología argentina y sudamericana, etnografía argentina, sudamericana, africana. Artesanías tradicionales argentinas, latinoamericanas, africanas, européas y asiáticas. Cuenta con un patrimonio de más de 5000 piezas en permanente crecimiento.",
         "email": "museo@bibapl.edu.ar",
-        "internet_access": "no",
         "museum": "history",
         "museum_type": "national",
         "name": "Museo Nacional del Hombre",
@@ -1916,8 +1852,7 @@
         "opening_hours": "Mo-Fr 14:30-19:30",
         "phone": "+54 11 4345-6967",
         "tourism": "museum",
-        "wheelchair": "no",
-        "wikidata": "Q64764216"
+        "wheelchair": "no"
       },
       "geometry": {
         "type": "Point",
@@ -2071,8 +2006,7 @@
         "operator": "Dirección Relaciones Institucionales, AySA",
         "phone": "+54 11 6319-1104",
         "start_date": "1996",
-        "tourism": "museum",
-        "wikidata": "Q64764396"
+        "tourism": "museum"
       },
       "geometry": {
         "type": "Point",
@@ -2344,8 +2278,7 @@
         "level": "0",
         "museum": "history",
         "museum_type": "national",
-        "name": "Museo Parlamentario",
-        "official_name": "Museo Parlamentario 'Senador Domingo Faustino Sarmiento'",
+        "name": "Museo Parlamentario 'Senador Domingo Faustino Sarmiento'",
         "opening_hours": "Mo-Fr 10:00-18:00",
         "tourism": "museum"
       },
@@ -3102,7 +3035,7 @@
         "addr:city": "Ciudad Autónoma de Buenos Aires",
         "addr:housenumber": "735",
         "addr:postcode": "C1179AAM",
-        "addr:street": "Avenida Medrano",
+        "addr:street": "Medrano",
         "description": "Instrumentos musicales, armas, tejidos, adornos, máscaras, etc, de Asia y Africa.",
         "museum_type": "private",
         "name": "Museo Etnográfico de las Obras Misionales Pontificias",
