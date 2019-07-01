@@ -84,7 +84,7 @@ function dataPopup(feature,layer){
         break;
         case '@id':
         var urlOsmArr = feature.properties[key].split('/')
-        var urlOsm = `<a class="urlOsm" href="https://openstreetmap.org/${urlOsmArr[0]}/${urlOsmArr[1]}" rel="noopener noreferrer" target="_blank">Editar museo con OpenStreetMap</a><br/><br/><p class="tagDescription ver">v0.0.3</p><p class="tagDescription up">last update: 2019-06-05</p>`
+        var urlOsm = `<a class="urlOsm" href="https://openstreetmap.org/${urlOsmArr[0]}/${urlOsmArr[1]}" rel="noopener noreferrer" target="_blank">Editar museo con OpenStreetMap</a><br/><br/><p class="tagDescription ver">v0.0.7</p><p class="tagDescription up">last update: 2019-06-30</p>`
         break;
     }
   }
