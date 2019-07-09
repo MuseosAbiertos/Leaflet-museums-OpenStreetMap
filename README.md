@@ -6,6 +6,7 @@ El objetivo principal es ayudar a la comunidad GLAM a crear mapas de museos, gal
 
 Este mapa es parte del proyecto <a href="https://mapas.museosabiertos.org/" rel="noreferrer">Mapas de Museos Abiertos</a>.
 <br/>
+Demo/Sitio en producción: https://mapas.museosabiertos.org/museos/caba/
 
 ### Manual
 reemplazar el archivo [/data/export.geoson] con uno actualizado, con ayuda de esta consulta:
