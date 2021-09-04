@@ -22,4 +22,4 @@ Link a al consulta armada: https://overpass-turbo.eu/s/Kn5:
 
 
 
-<a href="https://www.museosabiertos.org/" rel="noreferrer"> <img src="./images/logomuseosabiertos.png" alt="Logo" /> </a>
+<a href="https://museosabiertos.org/" rel="noreferrer"> <img src="./images/logomuseosabiertos.png" alt="Logo" /> </a>
